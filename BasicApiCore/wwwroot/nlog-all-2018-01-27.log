@@ -1,0 +1,1356 @@
+2018-01-27 13:52:31.9379|1|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:60056/api/castle/19/details application/json  
+2018-01-27 13:52:33.9457|1|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method BasicApiCore.Controllers.CastleDetailsController.GetCastleDetails (BasicApiCore) with arguments (19) - ModelState is Valid 
+2018-01-27 13:52:34.0005|0|FATAL|BasicApiCore.Controllers.CastleDetailsController|Castle o id 19 znalezione 
+2018-01-27 13:52:34.0241|1|INFO|Microsoft.AspNetCore.Mvc.StatusCodeResult|Executing HttpStatusCodeResult, setting HTTP status code 404 
+2018-01-27 13:52:34.0586|2|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action BasicApiCore.Controllers.CastleDetailsController.GetCastleDetails (BasicApiCore) in 392.2828ms 
+2018-01-27 13:52:34.1118|2|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 2592.7834ms 404 text/plain 
+2018-01-27 13:53:09.4621|1|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:60056/api/castle/19/details application/json  
+2018-01-27 13:53:09.4621|1|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method BasicApiCore.Controllers.CastleDetailsController.GetCastleDetails (BasicApiCore) with arguments (19) - ModelState is Valid 
+2018-01-27 13:53:09.4996|0|FATAL|BasicApiCore.Controllers.CastleDetailsController|Castle o id 19 znalezione 
+2018-01-27 13:53:09.4996|1|INFO|Microsoft.AspNetCore.Mvc.StatusCodeResult|Executing HttpStatusCodeResult, setting HTTP status code 404 
+2018-01-27 13:53:09.5085|2|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action BasicApiCore.Controllers.CastleDetailsController.GetCastleDetails (BasicApiCore) in 37.8427ms 
+2018-01-27 13:53:09.5085|2|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 51.2159ms 404 text/plain 
+2018-01-27 13:53:17.4432|1|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:60056/api/castle/1/details application/json  
+2018-01-27 13:53:17.4432|1|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method BasicApiCore.Controllers.CastleDetailsController.GetCastleDetails (BasicApiCore) with arguments (1) - ModelState is Valid 
+2018-01-27 13:53:17.5057|1|INFO|Microsoft.AspNetCore.Mvc.Internal.ObjectResultExecutor|Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext. 
+2018-01-27 13:53:17.9051|2|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action BasicApiCore.Controllers.CastleDetailsController.GetCastleDetails (BasicApiCore) in 457.1681ms 
+2018-01-27 13:53:17.9051|2|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 466.4102ms 200 application/json; charset=utf-8 
+2018-01-27 14:02:43.6485|1|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:60056/api/values   
+2018-01-27 14:02:44.0804|2|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 484.7171ms 404 text/plain 
+2018-01-27 14:02:44.3685|1|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:60056/favicon.ico   
+2018-01-27 14:02:44.3954|2|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 24.2804ms 404 text/plain 
+2018-01-27 14:02:44.4338|1|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:60056/favicon.ico   
+2018-01-27 14:02:44.4466|2|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 7.9606ms 404 text/plain 
+2018-01-27 14:02:55.0224|1|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:60056/api/castle/1/details application/json  
+2018-01-27 14:02:55.3284|1|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method BasicApiCore.Controllers.CastleDetailsController.GetCastleDetails (BasicApiCore) with arguments (1) - ModelState is Valid 
+2018-01-27 14:02:55.3945|1|INFO|Microsoft.AspNetCore.Mvc.Internal.ObjectResultExecutor|Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext. 
+2018-01-27 14:02:55.5126|2|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action BasicApiCore.Controllers.CastleDetailsController.GetCastleDetails (BasicApiCore) in 309.1621ms 
+2018-01-27 14:02:55.5126|2|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 496.5654ms 200 application/json; charset=utf-8 
+2018-01-27 14:03:51.2037|1|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:60056/api/castle/1/details application/json  
+2018-01-27 14:03:51.8044|1|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method BasicApiCore.Controllers.CastleDetailsController.GetCastleDetails (BasicApiCore) with arguments (1) - ModelState is Valid 
+2018-01-27 14:03:51.8566|1|INFO|Microsoft.AspNetCore.Mvc.Internal.ObjectResultExecutor|Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext. 
+2018-01-27 14:03:51.9810|2|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action BasicApiCore.Controllers.CastleDetailsController.GetCastleDetails (BasicApiCore) in 286.0391ms 
+2018-01-27 14:03:51.9904|2|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 819.5669ms 200 application/json; charset=utf-8 
+2018-01-27 14:05:28.5826|1|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:60056/api/values   
+2018-01-27 14:05:28.9845|2|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 428.9306ms 404 text/plain 
+2018-01-27 14:05:37.0028|1|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:60056/api/castle/1/details application/json  
+2018-01-27 14:05:37.2929|1|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method BasicApiCore.Controllers.CastleDetailsController.GetCastleDetails (BasicApiCore) with arguments (1) - ModelState is Valid 
+2018-01-27 14:05:37.3525|1|INFO|Microsoft.AspNetCore.Mvc.Internal.ObjectResultExecutor|Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext. 
+2018-01-27 14:05:37.4474|2|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action BasicApiCore.Controllers.CastleDetailsController.GetCastleDetails (BasicApiCore) in 263.6753ms 
+2018-01-27 14:05:37.4474|2|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 450.0873ms 200 application/json; charset=utf-8 
+2018-01-27 14:06:05.1487|1|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:60056/api/castle/1/details application/json  
+2018-01-27 14:06:05.7274|1|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method BasicApiCore.Controllers.CastleDetailsController.GetCastleDetails (BasicApiCore) with arguments (1) - ModelState is Valid 
+2018-01-27 14:06:05.7700|1|INFO|Microsoft.AspNetCore.Mvc.Internal.ObjectResultExecutor|Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext. 
+2018-01-27 14:06:05.8806|2|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action BasicApiCore.Controllers.CastleDetailsController.GetCastleDetails (BasicApiCore) in 266.4982ms 
+2018-01-27 14:06:05.8917|2|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 775.3378ms 200 application/json; charset=utf-8 
+2018-01-27 14:06:19.2749|1|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:60056/api/castle/1/details application/json  
+2018-01-27 14:06:19.2749|1|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method BasicApiCore.Controllers.CastleDetailsController.GetCastleDetails (BasicApiCore) with arguments (1) - ModelState is Valid 
+2018-01-27 14:06:19.2899|1|INFO|Microsoft.AspNetCore.Mvc.Internal.ObjectResultExecutor|Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext. 
+2018-01-27 14:06:19.2899|2|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action BasicApiCore.Controllers.CastleDetailsController.GetCastleDetails (BasicApiCore) in 12.8485ms 
+2018-01-27 14:06:19.3040|2|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 29.3889ms 200 application/json; charset=utf-8 
+2018-01-27 15:10:42.8700|1|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:60056/api/values   
+2018-01-27 15:10:43.2016|2|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 350.3322ms 404 text/plain 
+2018-01-27 15:10:52.3561|1|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:60056/Dummy   
+2018-01-27 15:10:52.3981|2|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 5.7389ms 404 text/plain 
+2018-01-27 15:11:42.4639|1|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:60056/api/values   
+2018-01-27 15:11:42.8314|2|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 396.6552ms 404 text/plain 
+2018-01-27 15:11:46.7998|1|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:60056/AAA   
+2018-01-27 15:11:47.7574|10403|INFO|Microsoft.EntityFrameworkCore.Infrastructure|Entity Framework Core 2.0.1-rtm-125 initialized 'CastleContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None 
+2018-01-27 15:12:11.5036|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (376ms) [Parameters=[], CommandType='Text', CommandTimeout='60']
+CREATE DATABASE [BasicApiCore]; 
+2018-01-27 15:12:12.6130|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (104ms) [Parameters=[], CommandType='Text', CommandTimeout='60']
+IF SERVERPROPERTY('EngineEdition') <> 5 EXEC(N'ALTER DATABASE [BasicApiCore] SET READ_COMMITTED_SNAPSHOT ON;'); 
+2018-01-27 15:12:12.9072|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (118ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+CREATE TABLE [Castle] (
+    [Id] int NOT NULL IDENTITY,
+    [Name] nvarchar(50) NOT NULL,
+    CONSTRAINT [PK_Castle] PRIMARY KEY ([Id])
+); 
+2018-01-27 15:12:12.9505|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (38ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+CREATE TABLE [CastleDetails] (
+    [Id] int NOT NULL IDENTITY,
+    [CastleId] int NOT NULL,
+    [Description] nvarchar(50) NOT NULL,
+    CONSTRAINT [PK_CastleDetails] PRIMARY KEY ([Id]),
+    CONSTRAINT [FK_CastleDetails_Castle_CastleId] FOREIGN KEY ([CastleId]) REFERENCES [Castle] ([Id]) ON DELETE CASCADE
+); 
+2018-01-27 15:12:12.9505|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+CREATE INDEX [IX_CastleDetails_CastleId] ON [CastleDetails] ([CastleId]); 
+2018-01-27 15:12:12.9926|1|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method BasicApiCore.Controllers.DummyController.Index (BasicApiCore) with arguments ((null)) - ModelState is Valid 
+2018-01-27 15:12:13.1120|3|ERROR|Microsoft.AspNetCore.Mvc.ViewFeatures.Internal.ViewResultExecutor|The view 'Index' was not found. Searched locations: /Views/Dummy/Index.cshtml, /Views/Shared/Index.cshtml 
+2018-01-27 15:12:13.2047|2|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action BasicApiCore.Controllers.DummyController.Index (BasicApiCore) in 26281.7927ms 
+2018-01-27 15:12:13.4450|0|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request The view 'Index' was not found. The following locations were searched:
+/Views/Dummy/Index.cshtml
+/Views/Shared/Index.cshtml
+2018-01-27 15:12:13.7088|2|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 26905.631ms 500 text/html; charset=utf-8 
+2018-01-27 15:13:13.2931|1|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:60056/api/values   
+2018-01-27 15:13:13.6730|2|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 405.8096ms 404 text/plain 
+2018-01-27 15:13:14.1912|1|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:60056/AAA   
+2018-01-27 15:13:14.6232|10403|INFO|Microsoft.EntityFrameworkCore.Infrastructure|Entity Framework Core 2.0.1-rtm-125 initialized 'CastleContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None 
+2018-01-27 15:13:16.6203|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (494ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+IF EXISTS (SELECT * FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE') SELECT 1 ELSE SELECT 0 
+2018-01-27 15:13:16.6605|1|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method BasicApiCore.Controllers.DummyController.Index (BasicApiCore) with arguments ((null)) - ModelState is Valid 
+2018-01-27 15:13:16.6835|1|INFO|Microsoft.AspNetCore.Mvc.StatusCodeResult|Executing HttpStatusCodeResult, setting HTTP status code 200 
+2018-01-27 15:13:16.6994|2|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action BasicApiCore.Controllers.DummyController.Index (BasicApiCore) in 2390.9272ms 
+2018-01-27 15:13:16.7199|2|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 2514.8111ms 200  
+2018-01-27 15:42:38.2087|10403|INFO|Microsoft.EntityFrameworkCore.Infrastructure|Entity Framework Core 2.0.1-rtm-125 initialized 'CastleContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None 
+2018-01-27 15:42:38.3780|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (13ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+IF EXISTS (SELECT * FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE') SELECT 1 ELSE SELECT 0 
+2018-01-27 15:47:50.7889|10403|INFO|Microsoft.EntityFrameworkCore.Infrastructure|Entity Framework Core 2.0.1-rtm-125 initialized 'CastleContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None 
+2018-01-27 15:47:50.9163|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (14ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+IF EXISTS (SELECT * FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE') SELECT 1 ELSE SELECT 0 
+2018-01-27 15:47:50.9470|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (25ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'__EFMigrationsHistory'); 
+2018-01-27 15:47:51.0876|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (52ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+CREATE TABLE [__EFMigrationsHistory] (
+    [MigrationId] nvarchar(150) NOT NULL,
+    [ProductVersion] nvarchar(32) NOT NULL,
+    CONSTRAINT [PK___EFMigrationsHistory] PRIMARY KEY ([MigrationId])
+); 
+2018-01-27 15:47:51.0876|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (0ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'__EFMigrationsHistory'); 
+2018-01-27 15:47:51.1388|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (47ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId]; 
+2018-01-27 15:47:51.1388|20402|INFO|Microsoft.EntityFrameworkCore.Migrations|Applying migration '20180127144238_CastleDetailMigration'. 
+2018-01-27 15:47:51.4981|20102|ERROR|Microsoft.EntityFrameworkCore.Database.Command|Failed executing DbCommand (199ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+CREATE TABLE [Castle] (
+    [Id] int NOT NULL IDENTITY,
+    [Name] nvarchar(50) NOT NULL,
+    CONSTRAINT [PK_Castle] PRIMARY KEY ([Id])
+); There is already an object named 'Castle' in the database.
+2018-01-27 15:50:00.8368|10403|INFO|Microsoft.EntityFrameworkCore.Infrastructure|Entity Framework Core 2.0.1-rtm-125 initialized 'CastleContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None 
+2018-01-27 15:50:00.9782|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (5ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'__EFMigrationsHistory'); 
+2018-01-27 15:50:00.9782|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (0ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'__EFMigrationsHistory'); 
+2018-01-27 15:50:00.9782|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (0ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId]; 
+2018-01-27 15:50:00.9908|20402|INFO|Microsoft.EntityFrameworkCore.Migrations|Applying migration '20180127144238_CastleDetailMigration'. 
+2018-01-27 15:50:01.0332|20102|ERROR|Microsoft.EntityFrameworkCore.Database.Command|Failed executing DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+CREATE TABLE [Castle] (
+    [Id] int NOT NULL IDENTITY,
+    [Name] nvarchar(50) NOT NULL,
+    CONSTRAINT [PK_Castle] PRIMARY KEY ([Id])
+); There is already an object named 'Castle' in the database.
+2018-01-27 15:52:21.5481|10403|INFO|Microsoft.EntityFrameworkCore.Infrastructure|Entity Framework Core 2.0.1-rtm-125 initialized 'CastleContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None 
+2018-01-27 15:52:21.6496|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (5ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'__EFMigrationsHistory'); 
+2018-01-27 15:52:21.6496|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (0ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'__EFMigrationsHistory'); 
+2018-01-27 15:52:21.6496|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (0ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId]; 
+2018-01-27 15:52:21.6624|20402|INFO|Microsoft.EntityFrameworkCore.Migrations|Applying migration '20180127144238_CastleDetailMigration'. 
+2018-01-27 15:52:21.7112|20102|ERROR|Microsoft.EntityFrameworkCore.Database.Command|Failed executing DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+CREATE TABLE [Castle] (
+    [Id] int NOT NULL IDENTITY,
+    [Name] nvarchar(50) NOT NULL,
+    CONSTRAINT [PK_Castle] PRIMARY KEY ([Id])
+); There is already an object named 'Castle' in the database.
+2018-01-27 15:53:57.5760|10403|INFO|Microsoft.EntityFrameworkCore.Infrastructure|Entity Framework Core 2.0.1-rtm-125 initialized 'CastleContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None 
+2018-01-27 15:53:57.6764|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (5ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'__EFMigrationsHistory'); 
+2018-01-27 15:53:57.6787|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (0ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'__EFMigrationsHistory'); 
+2018-01-27 15:53:57.6787|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (0ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId]; 
+2018-01-27 15:53:57.6787|20402|INFO|Microsoft.EntityFrameworkCore.Migrations|Applying migration '20180127144238_CastleDetailMigration'. 
+2018-01-27 15:53:57.7267|20102|ERROR|Microsoft.EntityFrameworkCore.Database.Command|Failed executing DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+CREATE TABLE [Castle] (
+    [Id] int NOT NULL IDENTITY,
+    [Name] nvarchar(50) NOT NULL,
+    CONSTRAINT [PK_Castle] PRIMARY KEY ([Id])
+); There is already an object named 'Castle' in the database.
+2018-01-27 15:54:43.9679|10403|INFO|Microsoft.EntityFrameworkCore.Infrastructure|Entity Framework Core 2.0.1-rtm-125 initialized 'CastleContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None 
+2018-01-27 15:54:44.0685|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (5ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'__EFMigrationsHistory'); 
+2018-01-27 15:54:44.0708|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (0ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'__EFMigrationsHistory'); 
+2018-01-27 15:54:44.0708|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (0ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId]; 
+2018-01-27 15:54:44.0708|20402|INFO|Microsoft.EntityFrameworkCore.Migrations|Applying migration '20180127144238_CastleDetailMigration'. 
+2018-01-27 15:54:44.1225|20102|ERROR|Microsoft.EntityFrameworkCore.Database.Command|Failed executing DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+CREATE TABLE [Castle] (
+    [Id] int NOT NULL IDENTITY,
+    [Name] nvarchar(50) NOT NULL,
+    CONSTRAINT [PK_Castle] PRIMARY KEY ([Id])
+); There is already an object named 'Castle' in the database.
+2018-01-27 15:57:07.4162|10403|INFO|Microsoft.EntityFrameworkCore.Infrastructure|Entity Framework Core 2.0.1-rtm-125 initialized 'CastleContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None 
+2018-01-27 15:57:08.3798|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (847ms) [Parameters=[], CommandType='Text', CommandTimeout='60']
+CREATE DATABASE [BasicApiCore]; 
+2018-01-27 15:57:08.5907|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (209ms) [Parameters=[], CommandType='Text', CommandTimeout='60']
+IF SERVERPROPERTY('EngineEdition') <> 5 EXEC(N'ALTER DATABASE [BasicApiCore] SET READ_COMMITTED_SNAPSHOT ON;'); 
+2018-01-27 15:57:08.6309|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (7ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+CREATE TABLE [__EFMigrationsHistory] (
+    [MigrationId] nvarchar(150) NOT NULL,
+    [ProductVersion] nvarchar(32) NOT NULL,
+    CONSTRAINT [PK___EFMigrationsHistory] PRIMARY KEY ([MigrationId])
+); 
+2018-01-27 15:57:08.6309|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (3ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'__EFMigrationsHistory'); 
+2018-01-27 15:57:08.6309|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId]; 
+2018-01-27 15:57:08.6309|20402|INFO|Microsoft.EntityFrameworkCore.Migrations|Applying migration '20180127144238_CastleDetailMigration'. 
+2018-01-27 15:57:08.6790|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (22ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+CREATE TABLE [Castle] (
+    [Id] int NOT NULL IDENTITY,
+    [Name] nvarchar(50) NOT NULL,
+    CONSTRAINT [PK_Castle] PRIMARY KEY ([Id])
+); 
+2018-01-27 15:57:08.6790|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (2ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+CREATE TABLE [CastleDetails] (
+    [Id] int NOT NULL IDENTITY,
+    [CastleId] int NOT NULL,
+    [Description] nvarchar(50) NOT NULL,
+    CONSTRAINT [PK_CastleDetails] PRIMARY KEY ([Id]),
+    CONSTRAINT [FK_CastleDetails_Castle_CastleId] FOREIGN KEY ([CastleId]) REFERENCES [Castle] ([Id]) ON DELETE CASCADE
+); 
+2018-01-27 15:57:08.6790|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+CREATE INDEX [IX_CastleDetails_CastleId] ON [CastleDetails] ([CastleId]); 
+2018-01-27 15:57:08.7036|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (16ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+INSERT INTO [__EFMigrationsHistory] ([MigrationId], [ProductVersion])
+VALUES (N'20180127144238_CastleDetailMigration', N'2.0.1-rtm-125'); 
+2018-01-27 15:58:04.4767|10403|INFO|Microsoft.EntityFrameworkCore.Infrastructure|Entity Framework Core 2.0.1-rtm-125 initialized 'CastleContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None 
+2018-01-27 15:58:04.5916|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (7ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'__EFMigrationsHistory'); 
+2018-01-27 15:58:04.5916|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (0ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'__EFMigrationsHistory'); 
+2018-01-27 15:58:04.6156|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (16ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId]; 
+2018-01-27 15:58:04.6156|20402|INFO|Microsoft.EntityFrameworkCore.Migrations|Applying migration '20180127145708_castleDbAddPOIDescription'. 
+2018-01-27 15:58:04.6986|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (63ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+ALTER TABLE [Castle] ADD [Description] nvarchar(max) NULL; 
+2018-01-27 15:58:04.6986|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+INSERT INTO [__EFMigrationsHistory] ([MigrationId], [ProductVersion])
+VALUES (N'20180127145708_castleDbAddPOIDescription', N'2.0.1-rtm-125'); 
+2018-01-27 15:58:04.6986|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (0ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'__EFMigrationsHistory'); 
+2018-01-27 15:58:04.7110|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (0ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'__EFMigrationsHistory'); 
+2018-01-27 15:58:04.7110|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (8ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId]; 
+2018-01-27 15:58:04.7110|20405|INFO|Microsoft.EntityFrameworkCore.Migrations|No migrations were applied. The database is already up to date. 
+2018-01-27 16:48:03.2322|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Castle] AS [c])
+    THEN CAST(1 AS BIT) ELSE CAST(0 AS BIT)
+END 
+2018-01-27 16:48:03.8831|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (312ms) [Parameters=[@p0='?' (Size = 4000), @p1='?' (Size = 50), @p2='?' (Size = 4000), @p3='?' (Size = 50), @p4='?' (Size = 4000), @p5='?' (Size = 50), @p6='?' (Size = 4000), @p7='?' (Size = 50), @p8='?' (Size = 4000), @p9='?' (Size = 50)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+DECLARE @inserted0 TABLE ([Id] int, [_Position] [int]);
+MERGE [Castle] USING (
+VALUES (@p0, @p1, 0),
+(@p2, @p3, 1),
+(@p4, @p5, 2),
+(@p6, @p7, 3),
+(@p8, @p9, 4)) AS i ([Description], [Name], _Position) ON 1=0
+WHEN NOT MATCHED THEN
+INSERT ([Description], [Name])
+VALUES (i.[Description], i.[Name])
+OUTPUT INSERTED.[Id], i._Position
+INTO @inserted0;
+
+SELECT [t].[Id] FROM [Castle] t
+INNER JOIN @inserted0 i ON ([t].[Id] = [i].[Id])
+ORDER BY [i].[_Position]; 
+2018-01-27 16:48:03.9351|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (26ms) [Parameters=[@p10='?', @p11='?' (Size = 50), @p12='?', @p13='?' (Size = 50), @p14='?', @p15='?' (Size = 50), @p16='?', @p17='?' (Size = 50)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+DECLARE @inserted0 TABLE ([Id] int, [_Position] [int]);
+MERGE [CastleDetails] USING (
+VALUES (@p10, @p11, 0),
+(@p12, @p13, 1),
+(@p14, @p15, 2),
+(@p16, @p17, 3)) AS i ([CastleId], [Description], _Position) ON 1=0
+WHEN NOT MATCHED THEN
+INSERT ([CastleId], [Description])
+VALUES (i.[CastleId], i.[Description])
+OUTPUT INSERTED.[Id], i._Position
+INTO @inserted0;
+
+SELECT [t].[Id] FROM [CastleDetails] t
+INNER JOIN @inserted0 i ON ([t].[Id] = [i].[Id])
+ORDER BY [i].[_Position]; 
+2018-01-27 16:48:04.5149|1|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:60056/api/values   
+2018-01-27 16:48:04.9199|2|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 396.8285ms 404 text/plain 
+2018-01-27 18:41:50.3484|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Castle] AS [c])
+    THEN CAST(1 AS BIT) ELSE CAST(0 AS BIT)
+END 
+2018-01-27 18:41:50.8224|1|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:60056/api/values   
+2018-01-27 18:41:51.1303|2|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 325.2765ms 404 text/plain 
+2018-01-27 18:42:09.0907|1|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:60056/api/castle/ application/json  
+2018-01-27 18:42:09.0907|2|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 5.9896ms 404 text/plain 
+2018-01-27 18:42:17.1545|1|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:60056/api/castles application/json  
+2018-01-27 18:42:17.9195|10403|INFO|Microsoft.EntityFrameworkCore.Infrastructure|Entity Framework Core 2.0.1-rtm-125 initialized 'CastleContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None 
+2018-01-27 18:42:17.9391|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (2ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'__EFMigrationsHistory'); 
+2018-01-27 18:42:17.9743|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (4ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'__EFMigrationsHistory'); 
+2018-01-27 18:42:17.9743|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (2ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId]; 
+2018-01-27 18:42:17.9961|20405|INFO|Microsoft.EntityFrameworkCore.Migrations|No migrations were applied. The database is already up to date. 
+2018-01-27 18:42:18.1607|1|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method BasicApiCore.Controllers.CastlesController.GetList (BasicApiCore) with arguments ((null)) - ModelState is Valid 
+2018-01-27 18:42:18.4100|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [o].[Id], [o].[Description], [o].[Name]
+FROM [Castle] AS [o]
+ORDER BY [o].[Name] 
+2018-01-27 18:42:18.5932|1|INFO|Microsoft.AspNetCore.Mvc.Internal.ObjectResultExecutor|Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext. 
+2018-01-27 18:42:19.4053|2|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action BasicApiCore.Controllers.CastlesController.GetList (BasicApiCore) in 1536.2398ms 
+2018-01-27 18:42:19.4121|2|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 2256.6482ms 200 application/json; charset=utf-8 
+2018-01-27 18:48:12.4711|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Castle] AS [c])
+    THEN CAST(1 AS BIT) ELSE CAST(0 AS BIT)
+END 
+2018-01-27 18:48:14.9569|1|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:60056/api/castles application/json  
+2018-01-27 18:48:15.3965|10403|INFO|Microsoft.EntityFrameworkCore.Infrastructure|Entity Framework Core 2.0.1-rtm-125 initialized 'CastleContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None 
+2018-01-27 18:48:15.3965|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'__EFMigrationsHistory'); 
+2018-01-27 18:48:15.4134|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (2ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'__EFMigrationsHistory'); 
+2018-01-27 18:48:15.4134|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId]; 
+2018-01-27 18:48:15.4279|20405|INFO|Microsoft.EntityFrameworkCore.Migrations|No migrations were applied. The database is already up to date. 
+2018-01-27 18:48:15.4761|1|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method BasicApiCore.Controllers.CastlesController.GetList (BasicApiCore) with arguments ((null)) - ModelState is Valid 
+2018-01-27 18:48:15.5095|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [o].[Id], [o].[Description], [o].[Name]
+FROM [Castle] AS [o]
+ORDER BY [o].[Name] 
+2018-01-27 18:48:15.6731|1|INFO|Microsoft.AspNetCore.Mvc.Internal.ObjectResultExecutor|Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext. 
+2018-01-27 18:48:15.8251|2|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action BasicApiCore.Controllers.CastlesController.GetList (BasicApiCore) in 454.2394ms 
+2018-01-27 18:48:15.8386|2|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 906.2713ms 200 application/json; charset=utf-8 
+2018-01-27 18:48:21.3746|1|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:60056/api/castles/1 application/json  
+2018-01-27 18:48:21.4422|10403|INFO|Microsoft.EntityFrameworkCore.Infrastructure|Entity Framework Core 2.0.1-rtm-125 initialized 'CastleContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None 
+2018-01-27 18:48:21.4490|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (0ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'__EFMigrationsHistory'); 
+2018-01-27 18:48:21.4490|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'__EFMigrationsHistory'); 
+2018-01-27 18:48:21.4619|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId]; 
+2018-01-27 18:48:21.4619|20405|INFO|Microsoft.EntityFrameworkCore.Migrations|No migrations were applied. The database is already up to date. 
+2018-01-27 18:48:21.5569|1|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method BasicApiCore.Controllers.CastlesController.GetCastle (BasicApiCore) with arguments (1, False) - ModelState is Valid 
+2018-01-27 18:48:21.6945|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (62ms) [Parameters=[@__castleId_0='?'], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [q].[Id], [q].[Description], [q].[Name]
+FROM [Castle] AS [q]
+WHERE [q].[Id] = @__castleId_0 
+2018-01-27 18:48:21.6945|1|INFO|Microsoft.AspNetCore.Mvc.Internal.ObjectResultExecutor|Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext. 
+2018-01-27 18:48:21.7193|2|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action BasicApiCore.Controllers.CastlesController.GetCastle (BasicApiCore) in 271.6269ms 
+2018-01-27 18:48:21.7540|2|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 352.3416ms 200 application/json; charset=utf-8 
+2018-01-27 18:48:36.4939|1|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:60056/api/castles/1?includeDetails=true application/json  
+2018-01-27 18:48:36.5123|10403|INFO|Microsoft.EntityFrameworkCore.Infrastructure|Entity Framework Core 2.0.1-rtm-125 initialized 'CastleContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None 
+2018-01-27 18:48:36.5262|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'__EFMigrationsHistory'); 
+2018-01-27 18:48:36.5262|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (0ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'__EFMigrationsHistory'); 
+2018-01-27 18:48:36.5368|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (0ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId]; 
+2018-01-27 18:48:36.5368|20405|INFO|Microsoft.EntityFrameworkCore.Migrations|No migrations were applied. The database is already up to date. 
+2018-01-27 18:48:36.5531|1|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method BasicApiCore.Controllers.CastlesController.GetCastle (BasicApiCore) with arguments (1, True) - ModelState is Valid 
+2018-01-27 18:48:36.5781|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (6ms) [Parameters=[@__castleId_0='?'], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [q].[Id], [q].[Description], [q].[Name]
+FROM [Castle] AS [q]
+WHERE [q].[Id] = @__castleId_0 
+2018-01-27 18:48:36.5904|1|INFO|Microsoft.AspNetCore.Mvc.Internal.ObjectResultExecutor|Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext. 
+2018-01-27 18:48:36.6020|2|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action BasicApiCore.Controllers.CastlesController.GetCastle (BasicApiCore) in 96.6609ms 
+2018-01-27 18:48:36.6020|2|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 115.4486ms 200 application/json; charset=utf-8 
+2018-01-27 18:48:51.6232|1|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:60056/api/castles/1?includeDetails=true application/json  
+2018-01-27 18:48:51.6232|10403|INFO|Microsoft.EntityFrameworkCore.Infrastructure|Entity Framework Core 2.0.1-rtm-125 initialized 'CastleContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None 
+2018-01-27 18:48:51.6410|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (0ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'__EFMigrationsHistory'); 
+2018-01-27 18:48:51.6410|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (0ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'__EFMigrationsHistory'); 
+2018-01-27 18:48:51.6511|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (0ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId]; 
+2018-01-27 18:48:51.6511|20405|INFO|Microsoft.EntityFrameworkCore.Migrations|No migrations were applied. The database is already up to date. 
+2018-01-27 18:48:51.6511|1|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method BasicApiCore.Controllers.CastlesController.GetCastle (BasicApiCore) with arguments (1, True) - ModelState is Valid 
+2018-01-27 18:48:51.6679|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (0ms) [Parameters=[@__castleId_0='?'], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [q].[Id], [q].[Description], [q].[Name]
+FROM [Castle] AS [q]
+WHERE [q].[Id] = @__castleId_0 
+2018-01-27 18:48:51.6679|1|INFO|Microsoft.AspNetCore.Mvc.Internal.ObjectResultExecutor|Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext. 
+2018-01-27 18:48:51.6779|2|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action BasicApiCore.Controllers.CastlesController.GetCastle (BasicApiCore) in 48.7562ms 
+2018-01-27 18:48:51.6779|2|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 59.1533ms 200 application/json; charset=utf-8 
+2018-01-27 18:50:52.1281|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (2ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Castle] AS [c])
+    THEN CAST(1 AS BIT) ELSE CAST(0 AS BIT)
+END 
+2018-01-27 18:50:52.5614|1|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:60056/api/castles/1?includeDetails=true application/json  
+2018-01-27 18:50:53.0664|10403|INFO|Microsoft.EntityFrameworkCore.Infrastructure|Entity Framework Core 2.0.1-rtm-125 initialized 'CastleContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None 
+2018-01-27 18:50:53.0801|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (2ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'__EFMigrationsHistory'); 
+2018-01-27 18:50:53.1014|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (0ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'__EFMigrationsHistory'); 
+2018-01-27 18:50:53.1014|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (0ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId]; 
+2018-01-27 18:50:53.1173|20405|INFO|Microsoft.EntityFrameworkCore.Migrations|No migrations were applied. The database is already up to date. 
+2018-01-27 18:50:53.2787|1|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method BasicApiCore.Controllers.CastlesController.GetCastle (BasicApiCore) with arguments (1, True) - ModelState is Valid 
+2018-01-27 18:50:53.6421|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (42ms) [Parameters=[@__castleId_0='?'], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [q].[Id], [q].[Description], [q].[Name]
+FROM [Castle] AS [q]
+WHERE [q].[Id] = @__castleId_0
+ORDER BY [q].[Id] 
+2018-01-27 18:50:54.0481|20102|ERROR|Microsoft.EntityFrameworkCore.Database.Command|Failed executing DbCommand (90ms) [Parameters=[@__castleId_0='?'], CommandType='Text', CommandTimeout='30']
+SELECT [q.CastleDetails].[Id], [q.CastleDetails].[CastleId], [q.CastleDetails].[Description]
+FROM [CastleDetails] AS [q.CastleDetails]
+INNER JOIN (
+    SELECT TOP(1) [q0].[Id]
+    FROM [Castle] AS [q0]
+    WHERE [q0].[Id] = @__castleId_0
+    ORDER BY [q0].[Id]
+) AS [t] ON [q.CastleDetails].[CastleId] = [t].[Id]
+ORDER BY [t].[Id] Invalid object name 'CastleDetails'.
+2018-01-27 18:50:54.3300|10100|ERROR|Microsoft.EntityFrameworkCore.Query|An exception occurred in the database while iterating the results of a query for context type 'BasicApiCore.Entities.CastleContext'.
+System.Data.SqlClient.SqlException (0x80131904): Invalid object name 'CastleDetails'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.Internal.RelationalCommand.Execute(IRelationalConnection connection, DbCommandMethod executeMethod, IReadOnlyDictionary`2 parameterValues)
+   at Microsoft.EntityFrameworkCore.Storage.Internal.RelationalCommand.ExecuteReader(IRelationalConnection connection, IReadOnlyDictionary`2 parameterValues)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryingEnumerable`1.Enumerator.BufferlessMoveNext(Boolean buffer)
+   at Microsoft.EntityFrameworkCore.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryingEnumerable`1.Enumerator.MoveNext()
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryBuffer.IncludeCollection(Int32 includeId, INavigation navigation, INavigation inverseNavigation, IEntityType targetEntityType, IClrCollectionAccessor clrCollectionAccessor, IClrPropertySetter inverseClrPropertySetter, Boolean tracking, Object entity, Func`1 relatedEntitiesFactory)
+   at lambda_method(Closure , QueryContext , Castle , Object[] )
+   at Microsoft.EntityFrameworkCore.Query.Internal.IncludeCompiler._Include[TEntity](QueryContext queryContext, TEntity entity, Object[] included, Action`3 fixup)
+   at lambda_method(Closure , Castle )
+   at System.Linq.Enumerable.SelectEnumerableIterator`2.MoveNext()
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Boolean& found)
+   at lambda_method(Closure , QueryContext )
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryCompiler.<>c__DisplayClass17_1`1.<CompileQueryCore>b__0(QueryContext qc)
+ClientConnectionId:27d6fdb5-bdb5-47a8-a7b2-631def484ad3
+Error Number:208,State:1,Class:16 Invalid object name 'CastleDetails'.
+2018-01-27 18:52:21.9168|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Castle] AS [c])
+    THEN CAST(1 AS BIT) ELSE CAST(0 AS BIT)
+END 
+2018-01-27 18:52:22.5115|1|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:60056/api/castles/1?includeDetails=true application/json  
+2018-01-27 18:52:23.0926|10403|INFO|Microsoft.EntityFrameworkCore.Infrastructure|Entity Framework Core 2.0.1-rtm-125 initialized 'CastleContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None 
+2018-01-27 18:52:23.1008|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (0ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'__EFMigrationsHistory'); 
+2018-01-27 18:52:23.1318|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (3ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'__EFMigrationsHistory'); 
+2018-01-27 18:52:23.1318|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (0ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId]; 
+2018-01-27 18:52:23.1318|20405|INFO|Microsoft.EntityFrameworkCore.Migrations|No migrations were applied. The database is already up to date. 
+2018-01-27 18:52:23.2734|1|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method BasicApiCore.Controllers.CastlesController.GetCastle (BasicApiCore) with arguments (1, True) - ModelState is Valid 
+2018-01-27 18:52:23.3978|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (22ms) [Parameters=[@__castleId_0='?'], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [q].[Id], [q].[Description], [q].[Name]
+FROM [Castle] AS [q]
+WHERE [q].[Id] = @__castleId_0
+ORDER BY [q].[Id] 
+2018-01-27 18:52:23.5468|20102|ERROR|Microsoft.EntityFrameworkCore.Database.Command|Failed executing DbCommand (2ms) [Parameters=[@__castleId_0='?'], CommandType='Text', CommandTimeout='30']
+SELECT [q.CastleDetails].[Id], [q.CastleDetails].[CastleId], [q.CastleDetails].[Description]
+FROM [CastleDetails] AS [q.CastleDetails]
+INNER JOIN (
+    SELECT TOP(1) [q0].[Id]
+    FROM [Castle] AS [q0]
+    WHERE [q0].[Id] = @__castleId_0
+    ORDER BY [q0].[Id]
+) AS [t] ON [q.CastleDetails].[CastleId] = [t].[Id]
+ORDER BY [t].[Id] Invalid object name 'CastleDetails'.
+2018-01-27 18:52:23.7708|10100|ERROR|Microsoft.EntityFrameworkCore.Query|An exception occurred in the database while iterating the results of a query for context type 'BasicApiCore.Entities.CastleContext'.
+System.Data.SqlClient.SqlException (0x80131904): Invalid object name 'CastleDetails'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.Internal.RelationalCommand.Execute(IRelationalConnection connection, DbCommandMethod executeMethod, IReadOnlyDictionary`2 parameterValues)
+   at Microsoft.EntityFrameworkCore.Storage.Internal.RelationalCommand.ExecuteReader(IRelationalConnection connection, IReadOnlyDictionary`2 parameterValues)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryingEnumerable`1.Enumerator.BufferlessMoveNext(Boolean buffer)
+   at Microsoft.EntityFrameworkCore.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryingEnumerable`1.Enumerator.MoveNext()
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryBuffer.IncludeCollection(Int32 includeId, INavigation navigation, INavigation inverseNavigation, IEntityType targetEntityType, IClrCollectionAccessor clrCollectionAccessor, IClrPropertySetter inverseClrPropertySetter, Boolean tracking, Object entity, Func`1 relatedEntitiesFactory)
+   at lambda_method(Closure , QueryContext , Castle , Object[] )
+   at Microsoft.EntityFrameworkCore.Query.Internal.IncludeCompiler._Include[TEntity](QueryContext queryContext, TEntity entity, Object[] included, Action`3 fixup)
+   at lambda_method(Closure , Castle )
+   at System.Linq.Enumerable.SelectEnumerableIterator`2.MoveNext()
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Boolean& found)
+   at lambda_method(Closure , QueryContext )
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryCompiler.<>c__DisplayClass17_1`1.<CompileQueryCore>b__0(QueryContext qc)
+ClientConnectionId:0c314bce-fd3d-4987-9e4a-3ec5b973e2cd
+Error Number:208,State:1,Class:16 Invalid object name 'CastleDetails'.
+2018-01-27 18:54:19.8283|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Castle] AS [c])
+    THEN CAST(1 AS BIT) ELSE CAST(0 AS BIT)
+END 
+2018-01-27 18:54:20.3071|1|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:60056/api/castles/1?includeDetails=true application/json  
+2018-01-27 18:54:20.7479|10403|INFO|Microsoft.EntityFrameworkCore.Infrastructure|Entity Framework Core 2.0.1-rtm-125 initialized 'CastleContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None 
+2018-01-27 18:54:20.7634|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (8ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'__EFMigrationsHistory'); 
+2018-01-27 18:54:20.7914|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (2ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'__EFMigrationsHistory'); 
+2018-01-27 18:54:20.7914|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (0ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId]; 
+2018-01-27 18:54:20.7914|20405|INFO|Microsoft.EntityFrameworkCore.Migrations|No migrations were applied. The database is already up to date. 
+2018-01-27 18:54:20.9467|1|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method BasicApiCore.Controllers.CastlesController.GetCastle (BasicApiCore) with arguments (1, True) - ModelState is Valid 
+2018-01-27 18:54:21.0809|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (41ms) [Parameters=[@__castleId_0='?'], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [q].[Id], [q].[Description], [q].[Name]
+FROM [Castle] AS [q]
+WHERE [q].[Id] = @__castleId_0
+ORDER BY [q].[Id] 
+2018-01-27 18:54:21.2353|20102|ERROR|Microsoft.EntityFrameworkCore.Database.Command|Failed executing DbCommand (2ms) [Parameters=[@__castleId_0='?'], CommandType='Text', CommandTimeout='30']
+SELECT [q.CastleDetail].[Id], [q.CastleDetail].[CastleId], [q.CastleDetail].[Description]
+FROM [CastleDetails] AS [q.CastleDetail]
+INNER JOIN (
+    SELECT TOP(1) [q0].[Id]
+    FROM [Castle] AS [q0]
+    WHERE [q0].[Id] = @__castleId_0
+    ORDER BY [q0].[Id]
+) AS [t] ON [q.CastleDetail].[CastleId] = [t].[Id]
+ORDER BY [t].[Id] Invalid object name 'CastleDetails'.
+2018-01-27 18:54:21.4036|10100|ERROR|Microsoft.EntityFrameworkCore.Query|An exception occurred in the database while iterating the results of a query for context type 'BasicApiCore.Entities.CastleContext'.
+System.Data.SqlClient.SqlException (0x80131904): Invalid object name 'CastleDetails'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.Internal.RelationalCommand.Execute(IRelationalConnection connection, DbCommandMethod executeMethod, IReadOnlyDictionary`2 parameterValues)
+   at Microsoft.EntityFrameworkCore.Storage.Internal.RelationalCommand.ExecuteReader(IRelationalConnection connection, IReadOnlyDictionary`2 parameterValues)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryingEnumerable`1.Enumerator.BufferlessMoveNext(Boolean buffer)
+   at Microsoft.EntityFrameworkCore.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryingEnumerable`1.Enumerator.MoveNext()
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryBuffer.IncludeCollection(Int32 includeId, INavigation navigation, INavigation inverseNavigation, IEntityType targetEntityType, IClrCollectionAccessor clrCollectionAccessor, IClrPropertySetter inverseClrPropertySetter, Boolean tracking, Object entity, Func`1 relatedEntitiesFactory)
+   at lambda_method(Closure , QueryContext , Castle , Object[] )
+   at Microsoft.EntityFrameworkCore.Query.Internal.IncludeCompiler._Include[TEntity](QueryContext queryContext, TEntity entity, Object[] included, Action`3 fixup)
+   at lambda_method(Closure , Castle )
+   at System.Linq.Enumerable.SelectEnumerableIterator`2.MoveNext()
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Boolean& found)
+   at lambda_method(Closure , QueryContext )
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryCompiler.<>c__DisplayClass17_1`1.<CompileQueryCore>b__0(QueryContext qc)
+ClientConnectionId:eb9d1625-fa47-4f8c-96f3-0df2ccbfb4c4
+Error Number:208,State:1,Class:16 Invalid object name 'CastleDetails'.
+2018-01-27 18:56:04.4543|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Castle] AS [c])
+    THEN CAST(1 AS BIT) ELSE CAST(0 AS BIT)
+END 
+2018-01-27 18:56:05.0065|1|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:60056/api/values   
+2018-01-27 18:56:05.3567|2|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 364.011ms 404 text/plain 
+2018-01-27 18:56:11.4356|1|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:60056/api/castles/1?includeDetails=true application/json  
+2018-01-27 18:56:11.6063|10403|INFO|Microsoft.EntityFrameworkCore.Infrastructure|Entity Framework Core 2.0.1-rtm-125 initialized 'CastleContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None 
+2018-01-27 18:56:11.6154|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (2ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'__EFMigrationsHistory'); 
+2018-01-27 18:56:11.6582|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (12ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'__EFMigrationsHistory'); 
+2018-01-27 18:56:11.7000|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (30ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId]; 
+2018-01-27 18:56:11.7000|20405|INFO|Microsoft.EntityFrameworkCore.Migrations|No migrations were applied. The database is already up to date. 
+2018-01-27 18:56:11.8139|1|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method BasicApiCore.Controllers.CastlesController.GetCastle (BasicApiCore) with arguments (1, True) - ModelState is Valid 
+2018-01-27 18:56:11.9253|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (24ms) [Parameters=[@__castleId_0='?'], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [q].[Id], [q].[Description], [q].[Name]
+FROM [Castle] AS [q]
+WHERE [q].[Id] = @__castleId_0
+ORDER BY [q].[Id] 
+2018-01-27 18:56:12.0363|20102|ERROR|Microsoft.EntityFrameworkCore.Database.Command|Failed executing DbCommand (2ms) [Parameters=[@__castleId_0='?'], CommandType='Text', CommandTimeout='30']
+SELECT [q.CastleDetail].[Id], [q.CastleDetail].[CastleId], [q.CastleDetail].[Description]
+FROM [CastleDetails] AS [q.CastleDetail]
+INNER JOIN (
+    SELECT TOP(1) [q0].[Id]
+    FROM [Castle] AS [q0]
+    WHERE [q0].[Id] = @__castleId_0
+    ORDER BY [q0].[Id]
+) AS [t] ON [q.CastleDetail].[CastleId] = [t].[Id]
+ORDER BY [t].[Id] Invalid object name 'CastleDetails'.
+2018-01-27 18:56:12.2035|10100|ERROR|Microsoft.EntityFrameworkCore.Query|An exception occurred in the database while iterating the results of a query for context type 'BasicApiCore.Entities.CastleContext'.
+System.Data.SqlClient.SqlException (0x80131904): Invalid object name 'CastleDetails'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.Internal.RelationalCommand.Execute(IRelationalConnection connection, DbCommandMethod executeMethod, IReadOnlyDictionary`2 parameterValues)
+   at Microsoft.EntityFrameworkCore.Storage.Internal.RelationalCommand.ExecuteReader(IRelationalConnection connection, IReadOnlyDictionary`2 parameterValues)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryingEnumerable`1.Enumerator.BufferlessMoveNext(Boolean buffer)
+   at Microsoft.EntityFrameworkCore.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryingEnumerable`1.Enumerator.MoveNext()
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryBuffer.IncludeCollection(Int32 includeId, INavigation navigation, INavigation inverseNavigation, IEntityType targetEntityType, IClrCollectionAccessor clrCollectionAccessor, IClrPropertySetter inverseClrPropertySetter, Boolean tracking, Object entity, Func`1 relatedEntitiesFactory)
+   at lambda_method(Closure , QueryContext , Castle , Object[] )
+   at Microsoft.EntityFrameworkCore.Query.Internal.IncludeCompiler._Include[TEntity](QueryContext queryContext, TEntity entity, Object[] included, Action`3 fixup)
+   at lambda_method(Closure , Castle )
+   at System.Linq.Enumerable.SelectEnumerableIterator`2.MoveNext()
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Boolean& found)
+   at lambda_method(Closure , QueryContext )
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryCompiler.<>c__DisplayClass17_1`1.<CompileQueryCore>b__0(QueryContext qc)
+ClientConnectionId:c48bea0e-c681-48bd-b418-dca5f48a21aa
+Error Number:208,State:1,Class:16 Invalid object name 'CastleDetails'.
+2018-01-27 18:58:29.8004|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (0ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Castle] AS [c])
+    THEN CAST(1 AS BIT) ELSE CAST(0 AS BIT)
+END 
+2018-01-27 18:58:30.1930|1|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:60056/api/values   
+2018-01-27 18:58:30.5391|2|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 360.8368ms 404 text/plain 
+2018-01-27 18:58:33.0803|1|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:60056/api/castles/1?includeDetails=true application/json  
+2018-01-27 18:58:33.3088|10403|INFO|Microsoft.EntityFrameworkCore.Infrastructure|Entity Framework Core 2.0.1-rtm-125 initialized 'CastleContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None 
+2018-01-27 18:58:33.3489|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'__EFMigrationsHistory'); 
+2018-01-27 18:58:33.3593|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (4ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'__EFMigrationsHistory'); 
+2018-01-27 18:58:33.3691|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (0ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId]; 
+2018-01-27 18:58:33.3691|20405|INFO|Microsoft.EntityFrameworkCore.Migrations|No migrations were applied. The database is already up to date. 
+2018-01-27 18:58:33.5411|1|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method BasicApiCore.Controllers.CastlesController.GetCastle (BasicApiCore) with arguments (1, True) - ModelState is Valid 
+2018-01-27 18:58:33.6882|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (34ms) [Parameters=[@__castleId_0='?'], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [q].[Id], [q].[Description], [q].[Name]
+FROM [Castle] AS [q]
+WHERE [q].[Id] = @__castleId_0
+ORDER BY [q].[Id] 
+2018-01-27 18:58:33.8291|20102|ERROR|Microsoft.EntityFrameworkCore.Database.Command|Failed executing DbCommand (2ms) [Parameters=[@__castleId_0='?'], CommandType='Text', CommandTimeout='30']
+SELECT [q.CastleDetails].[Id], [q.CastleDetails].[CastleId], [q.CastleDetails].[Description]
+FROM [CastleDetails] AS [q.CastleDetails]
+INNER JOIN (
+    SELECT TOP(1) [q0].[Id]
+    FROM [Castle] AS [q0]
+    WHERE [q0].[Id] = @__castleId_0
+    ORDER BY [q0].[Id]
+) AS [t] ON [q.CastleDetails].[CastleId] = [t].[Id]
+ORDER BY [t].[Id] Invalid object name 'CastleDetails'.
+2018-01-27 18:58:34.0517|10100|ERROR|Microsoft.EntityFrameworkCore.Query|An exception occurred in the database while iterating the results of a query for context type 'BasicApiCore.Entities.CastleContext'.
+System.Data.SqlClient.SqlException (0x80131904): Invalid object name 'CastleDetails'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.Internal.RelationalCommand.Execute(IRelationalConnection connection, DbCommandMethod executeMethod, IReadOnlyDictionary`2 parameterValues)
+   at Microsoft.EntityFrameworkCore.Storage.Internal.RelationalCommand.ExecuteReader(IRelationalConnection connection, IReadOnlyDictionary`2 parameterValues)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryingEnumerable`1.Enumerator.BufferlessMoveNext(Boolean buffer)
+   at Microsoft.EntityFrameworkCore.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryingEnumerable`1.Enumerator.MoveNext()
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryBuffer.IncludeCollection(Int32 includeId, INavigation navigation, INavigation inverseNavigation, IEntityType targetEntityType, IClrCollectionAccessor clrCollectionAccessor, IClrPropertySetter inverseClrPropertySetter, Boolean tracking, Object entity, Func`1 relatedEntitiesFactory)
+   at lambda_method(Closure , QueryContext , Castle , Object[] )
+   at Microsoft.EntityFrameworkCore.Query.Internal.IncludeCompiler._Include[TEntity](QueryContext queryContext, TEntity entity, Object[] included, Action`3 fixup)
+   at lambda_method(Closure , Castle )
+   at System.Linq.Enumerable.SelectEnumerableIterator`2.MoveNext()
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Boolean& found)
+   at lambda_method(Closure , QueryContext )
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryCompiler.<>c__DisplayClass17_1`1.<CompileQueryCore>b__0(QueryContext qc)
+ClientConnectionId:f9f7e77f-5364-4799-99f3-29383cdc5c4e
+Error Number:208,State:1,Class:16 Invalid object name 'CastleDetails'.
+2018-01-27 18:59:25.5299|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (0ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Castle] AS [c])
+    THEN CAST(1 AS BIT) ELSE CAST(0 AS BIT)
+END 
+2018-01-27 18:59:25.5865|10403|INFO|Microsoft.EntityFrameworkCore.Infrastructure|Entity Framework Core 2.0.1-rtm-125 initialized 'CastleContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None 
+2018-01-27 18:59:25.5865|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (0ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'__EFMigrationsHistory'); 
+2018-01-27 18:59:25.5865|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (4ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'__EFMigrationsHistory'); 
+2018-01-27 18:59:25.5865|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (0ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId]; 
+2018-01-27 18:59:25.5997|20405|INFO|Microsoft.EntityFrameworkCore.Migrations|No migrations were applied. The database is already up to date. 
+2018-01-27 19:00:58.1935|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Castle] AS [c])
+    THEN CAST(1 AS BIT) ELSE CAST(0 AS BIT)
+END 
+2018-01-27 19:00:58.2537|10403|INFO|Microsoft.EntityFrameworkCore.Infrastructure|Entity Framework Core 2.0.1-rtm-125 initialized 'CastleContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None 
+2018-01-27 19:00:58.2634|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (7ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'__EFMigrationsHistory'); 
+2018-01-27 19:00:58.2844|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (12ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'__EFMigrationsHistory'); 
+2018-01-27 19:00:58.2874|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId]; 
+2018-01-27 19:00:58.2874|20405|INFO|Microsoft.EntityFrameworkCore.Migrations|No migrations were applied. The database is already up to date. 
+2018-01-27 19:00:58.2874|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (0ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'__EFMigrationsHistory'); 
+2018-01-27 19:00:58.2874|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (0ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'__EFMigrationsHistory'); 
+2018-01-27 19:00:58.2874|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (0ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId]; 
+2018-01-27 19:00:58.3031|20405|INFO|Microsoft.EntityFrameworkCore.Migrations|No migrations were applied. The database is already up to date. 
+2018-01-27 19:01:14.6070|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (0ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Castle] AS [c])
+    THEN CAST(1 AS BIT) ELSE CAST(0 AS BIT)
+END 
+2018-01-27 19:01:16.1934|1|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:60056/api/castles/1?includeDetails=true application/json  
+2018-01-27 19:01:16.7156|10403|INFO|Microsoft.EntityFrameworkCore.Infrastructure|Entity Framework Core 2.0.1-rtm-125 initialized 'CastleContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None 
+2018-01-27 19:01:16.7536|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (10ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'__EFMigrationsHistory'); 
+2018-01-27 19:01:16.7656|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (3ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'__EFMigrationsHistory'); 
+2018-01-27 19:01:16.7717|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (0ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId]; 
+2018-01-27 19:01:16.7717|20405|INFO|Microsoft.EntityFrameworkCore.Migrations|No migrations were applied. The database is already up to date. 
+2018-01-27 19:01:16.9058|1|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method BasicApiCore.Controllers.CastlesController.GetCastle (BasicApiCore) with arguments (1, True) - ModelState is Valid 
+2018-01-27 19:01:17.0295|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (27ms) [Parameters=[@__castleId_0='?'], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [q].[Id], [q].[Description], [q].[Name]
+FROM [Castle] AS [q]
+WHERE [q].[Id] = @__castleId_0
+ORDER BY [q].[Id] 
+2018-01-27 19:01:17.1811|20102|ERROR|Microsoft.EntityFrameworkCore.Database.Command|Failed executing DbCommand (2ms) [Parameters=[@__castleId_0='?'], CommandType='Text', CommandTimeout='30']
+SELECT [q.CastleDetails].[Id], [q.CastleDetails].[CastleId], [q.CastleDetails].[Description]
+FROM [CastleDetails] AS [q.CastleDetails]
+INNER JOIN (
+    SELECT TOP(1) [q0].[Id]
+    FROM [Castle] AS [q0]
+    WHERE [q0].[Id] = @__castleId_0
+    ORDER BY [q0].[Id]
+) AS [t] ON [q.CastleDetails].[CastleId] = [t].[Id]
+ORDER BY [t].[Id] Invalid object name 'CastleDetails'.
+2018-01-27 19:01:17.3811|10100|ERROR|Microsoft.EntityFrameworkCore.Query|An exception occurred in the database while iterating the results of a query for context type 'BasicApiCore.Entities.CastleContext'.
+System.Data.SqlClient.SqlException (0x80131904): Invalid object name 'CastleDetails'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.Internal.RelationalCommand.Execute(IRelationalConnection connection, DbCommandMethod executeMethod, IReadOnlyDictionary`2 parameterValues)
+   at Microsoft.EntityFrameworkCore.Storage.Internal.RelationalCommand.ExecuteReader(IRelationalConnection connection, IReadOnlyDictionary`2 parameterValues)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryingEnumerable`1.Enumerator.BufferlessMoveNext(Boolean buffer)
+   at Microsoft.EntityFrameworkCore.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryingEnumerable`1.Enumerator.MoveNext()
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryBuffer.IncludeCollection(Int32 includeId, INavigation navigation, INavigation inverseNavigation, IEntityType targetEntityType, IClrCollectionAccessor clrCollectionAccessor, IClrPropertySetter inverseClrPropertySetter, Boolean tracking, Object entity, Func`1 relatedEntitiesFactory)
+   at lambda_method(Closure , QueryContext , Castle , Object[] )
+   at Microsoft.EntityFrameworkCore.Query.Internal.IncludeCompiler._Include[TEntity](QueryContext queryContext, TEntity entity, Object[] included, Action`3 fixup)
+   at lambda_method(Closure , Castle )
+   at System.Linq.Enumerable.SelectEnumerableIterator`2.MoveNext()
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Boolean& found)
+   at lambda_method(Closure , QueryContext )
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryCompiler.<>c__DisplayClass17_1`1.<CompileQueryCore>b__0(QueryContext qc)
+ClientConnectionId:4ffdd58f-6aac-45ad-b9d7-d4527df4b40d
+Error Number:208,State:1,Class:16 Invalid object name 'CastleDetails'.
+2018-01-27 19:01:36.1084|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (0ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Castle] AS [c])
+    THEN CAST(1 AS BIT) ELSE CAST(0 AS BIT)
+END 
+2018-01-27 19:01:46.9365|1|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:60056/api/castle/1/detail application/json  
+2018-01-27 19:01:47.2609|2|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 355.7495ms 404 text/plain 
+2018-01-27 19:01:58.3498|1|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:60056/api/castle/1/details application/json  
+2018-01-27 19:01:58.5627|10403|INFO|Microsoft.EntityFrameworkCore.Infrastructure|Entity Framework Core 2.0.1-rtm-125 initialized 'CastleContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None 
+2018-01-27 19:01:58.5930|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (21ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'__EFMigrationsHistory'); 
+2018-01-27 19:01:58.5930|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'__EFMigrationsHistory'); 
+2018-01-27 19:01:58.6059|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (0ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId]; 
+2018-01-27 19:01:58.6256|20405|INFO|Microsoft.EntityFrameworkCore.Migrations|No migrations were applied. The database is already up to date. 
+2018-01-27 19:01:58.7592|1|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method BasicApiCore.Controllers.CastleDetailsController.GetCastleDetails (BasicApiCore) with arguments (1) - ModelState is Valid 
+2018-01-27 19:01:58.8619|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (50ms) [Parameters=[@__castleId_0='?'], CommandType='Text', CommandTimeout='30']
+SELECT TOP(2) [c].[Id], [c].[Description], [c].[Name]
+FROM [Castle] AS [c]
+WHERE [c].[Id] = @__castleId_0 
+2018-01-27 19:01:58.9147|0|FATAL|BasicApiCore.Controllers.CastleDetailsController|Castle o id 1 znalezione 
+2018-01-27 19:01:58.9389|1|INFO|Microsoft.AspNetCore.Mvc.StatusCodeResult|Executing HttpStatusCodeResult, setting HTTP status code 404 
+2018-01-27 19:01:58.9570|2|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action BasicApiCore.Controllers.CastleDetailsController.GetCastleDetails (BasicApiCore) in 425.1532ms 
+2018-01-27 19:01:58.9642|2|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 613.897ms 404 text/plain 
+2018-01-27 19:02:15.2939|1|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:60056/api/castle/1/details application/json  
+2018-01-27 19:02:15.3068|10403|INFO|Microsoft.EntityFrameworkCore.Infrastructure|Entity Framework Core 2.0.1-rtm-125 initialized 'CastleContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None 
+2018-01-27 19:02:15.3204|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (0ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'__EFMigrationsHistory'); 
+2018-01-27 19:02:15.3204|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (0ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'__EFMigrationsHistory'); 
+2018-01-27 19:02:15.3365|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (0ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId]; 
+2018-01-27 19:02:15.3365|20405|INFO|Microsoft.EntityFrameworkCore.Migrations|No migrations were applied. The database is already up to date. 
+2018-01-27 19:02:15.3365|1|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method BasicApiCore.Controllers.CastleDetailsController.GetCastleDetails (BasicApiCore) with arguments (1) - ModelState is Valid 
+2018-01-27 19:02:15.3545|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (0ms) [Parameters=[@__castleId_0='?'], CommandType='Text', CommandTimeout='30']
+SELECT TOP(2) [c].[Id], [c].[Description], [c].[Name]
+FROM [Castle] AS [c]
+WHERE [c].[Id] = @__castleId_0 
+2018-01-27 19:02:15.3726|0|FATAL|BasicApiCore.Controllers.CastleDetailsController|Castle o id 1 znalezione 
+2018-01-27 19:02:15.3726|1|INFO|Microsoft.AspNetCore.Mvc.StatusCodeResult|Executing HttpStatusCodeResult, setting HTTP status code 404 
+2018-01-27 19:02:15.3845|2|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action BasicApiCore.Controllers.CastleDetailsController.GetCastleDetails (BasicApiCore) in 81.0679ms 
+2018-01-27 19:02:15.3845|2|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 95.4146ms 404 text/plain 
+2018-01-27 19:02:16.6462|1|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:60056/api/castle/1/details application/json  
+2018-01-27 19:02:16.6617|10403|INFO|Microsoft.EntityFrameworkCore.Infrastructure|Entity Framework Core 2.0.1-rtm-125 initialized 'CastleContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None 
+2018-01-27 19:02:16.6672|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (0ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'__EFMigrationsHistory'); 
+2018-01-27 19:02:16.6800|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (2ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'__EFMigrationsHistory'); 
+2018-01-27 19:02:16.6800|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (0ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId]; 
+2018-01-27 19:02:16.6935|20405|INFO|Microsoft.EntityFrameworkCore.Migrations|No migrations were applied. The database is already up to date. 
+2018-01-27 19:02:16.6935|1|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method BasicApiCore.Controllers.CastleDetailsController.GetCastleDetails (BasicApiCore) with arguments (1) - ModelState is Valid 
+2018-01-27 19:02:16.6935|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (0ms) [Parameters=[@__castleId_0='?'], CommandType='Text', CommandTimeout='30']
+SELECT TOP(2) [c].[Id], [c].[Description], [c].[Name]
+FROM [Castle] AS [c]
+WHERE [c].[Id] = @__castleId_0 
+2018-01-27 19:02:16.7149|0|FATAL|BasicApiCore.Controllers.CastleDetailsController|Castle o id 1 znalezione 
+2018-01-27 19:02:16.7149|1|INFO|Microsoft.AspNetCore.Mvc.StatusCodeResult|Executing HttpStatusCodeResult, setting HTTP status code 404 
+2018-01-27 19:02:16.7260|2|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action BasicApiCore.Controllers.CastleDetailsController.GetCastleDetails (BasicApiCore) in 74.1368ms 
+2018-01-27 19:02:16.7260|2|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 111.2598ms 404 text/plain 
+2018-01-27 19:03:01.7987|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (0ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Castle] AS [c])
+    THEN CAST(1 AS BIT) ELSE CAST(0 AS BIT)
+END 
+2018-01-27 19:03:02.3586|1|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:60056/api/castle/1/details application/json  
+2018-01-27 19:03:02.8438|10403|INFO|Microsoft.EntityFrameworkCore.Infrastructure|Entity Framework Core 2.0.1-rtm-125 initialized 'CastleContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None 
+2018-01-27 19:03:02.8631|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (9ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'__EFMigrationsHistory'); 
+2018-01-27 19:03:02.8699|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'__EFMigrationsHistory'); 
+2018-01-27 19:03:02.8699|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (0ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId]; 
+2018-01-27 19:03:02.8699|20405|INFO|Microsoft.EntityFrameworkCore.Migrations|No migrations were applied. The database is already up to date. 
+2018-01-27 19:03:03.0212|1|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method BasicApiCore.Controllers.CastleDetailsController.GetCastleDetails (BasicApiCore) with arguments (1) - ModelState is Valid 
+2018-01-27 19:03:03.0803|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (24ms) [Parameters=[@__castleId_0='?'], CommandType='Text', CommandTimeout='30']
+SELECT TOP(2) [c].[Id], [c].[Description], [c].[Name]
+FROM [Castle] AS [c]
+WHERE [c].[Id] = @__castleId_0 
+2018-01-27 19:03:03.2391|20102|ERROR|Microsoft.EntityFrameworkCore.Database.Command|Failed executing DbCommand (3ms) [Parameters=[@__castleId_0='?'], CommandType='Text', CommandTimeout='30']
+SELECT [q].[Id], [q].[CastleId], [q].[Description]
+FROM [CastleDetails] AS [q]
+WHERE [q].[CastleId] = @__castleId_0 Invalid object name 'CastleDetails'.
+2018-01-27 19:03:03.4723|10100|ERROR|Microsoft.EntityFrameworkCore.Query|An exception occurred in the database while iterating the results of a query for context type 'BasicApiCore.Entities.CastleContext'.
+System.Data.SqlClient.SqlException (0x80131904): Invalid object name 'CastleDetails'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.Internal.RelationalCommand.Execute(IRelationalConnection connection, DbCommandMethod executeMethod, IReadOnlyDictionary`2 parameterValues)
+   at Microsoft.EntityFrameworkCore.Storage.Internal.RelationalCommand.ExecuteReader(IRelationalConnection connection, IReadOnlyDictionary`2 parameterValues)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryingEnumerable`1.Enumerator.BufferlessMoveNext(Boolean buffer)
+   at Microsoft.EntityFrameworkCore.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryingEnumerable`1.Enumerator.MoveNext()
+   at Microsoft.EntityFrameworkCore.Query.Internal.LinqOperatorProvider.<_TrackEntities>d__17`2.MoveNext()
+   at Microsoft.EntityFrameworkCore.Query.Internal.LinqOperatorProvider.ExceptionInterceptor`1.EnumeratorExceptionInterceptor.MoveNext()
+ClientConnectionId:a7080e97-56a5-4f95-ad76-18134a571a62
+Error Number:208,State:1,Class:16 Invalid object name 'CastleDetails'.
+2018-01-27 19:03:46.3801|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (0ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Castle] AS [c])
+    THEN CAST(1 AS BIT) ELSE CAST(0 AS BIT)
+END 
+2018-01-27 19:03:46.7264|1|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:60056/api/castle/1/details application/json  
+2018-01-27 19:03:47.2558|10403|INFO|Microsoft.EntityFrameworkCore.Infrastructure|Entity Framework Core 2.0.1-rtm-125 initialized 'CastleContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None 
+2018-01-27 19:03:47.2558|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (2ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'__EFMigrationsHistory'); 
+2018-01-27 19:03:47.2782|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (8ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'__EFMigrationsHistory'); 
+2018-01-27 19:03:47.2926|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (9ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId]; 
+2018-01-27 19:03:47.2926|20405|INFO|Microsoft.EntityFrameworkCore.Migrations|No migrations were applied. The database is already up to date. 
+2018-01-27 19:03:47.4430|1|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method BasicApiCore.Controllers.CastleDetailsController.GetCastleDetails (BasicApiCore) with arguments (1) - ModelState is Valid 
+2018-01-27 19:03:47.5185|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (27ms) [Parameters=[@__castleId_0='?'], CommandType='Text', CommandTimeout='30']
+SELECT TOP(2) [c].[Id], [c].[Description], [c].[Name]
+FROM [Castle] AS [c]
+WHERE [c].[Id] = @__castleId_0 
+2018-01-27 19:03:47.5763|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (2ms) [Parameters=[@__castleId_0='?'], CommandType='Text', CommandTimeout='30']
+SELECT [q].[Id], [q].[CastleId], [q].[Description]
+FROM [CastleDetail] AS [q]
+WHERE [q].[CastleId] = @__castleId_0 
+2018-01-27 19:03:47.6413|1|INFO|Microsoft.AspNetCore.Mvc.Internal.ObjectResultExecutor|Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext. 
+2018-01-27 19:03:47.7554|2|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action BasicApiCore.Controllers.CastleDetailsController.GetCastleDetails (BasicApiCore) in 516.2685ms 
+2018-01-27 19:03:47.7763|2|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 1066.3652ms 200 application/json; charset=utf-8 
+2018-01-27 19:03:52.6229|1|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:60056/api/castles/1?includeDetails=true application/json  
+2018-01-27 19:03:52.6350|10403|INFO|Microsoft.EntityFrameworkCore.Infrastructure|Entity Framework Core 2.0.1-rtm-125 initialized 'CastleContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None 
+2018-01-27 19:03:52.6350|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (0ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'__EFMigrationsHistory'); 
+2018-01-27 19:03:52.6350|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (0ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'__EFMigrationsHistory'); 
+2018-01-27 19:03:52.6527|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (0ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId]; 
+2018-01-27 19:03:52.6527|20405|INFO|Microsoft.EntityFrameworkCore.Migrations|No migrations were applied. The database is already up to date. 
+2018-01-27 19:03:52.6737|1|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method BasicApiCore.Controllers.CastlesController.GetCastle (BasicApiCore) with arguments (1, True) - ModelState is Valid 
+2018-01-27 19:03:52.7574|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (0ms) [Parameters=[@__castleId_0='?'], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [q].[Id], [q].[Description], [q].[Name]
+FROM [Castle] AS [q]
+WHERE [q].[Id] = @__castleId_0
+ORDER BY [q].[Id] 
+2018-01-27 19:03:52.7909|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (5ms) [Parameters=[@__castleId_0='?'], CommandType='Text', CommandTimeout='30']
+SELECT [q.CastleDetails].[Id], [q.CastleDetails].[CastleId], [q.CastleDetails].[Description]
+FROM [CastleDetail] AS [q.CastleDetails]
+INNER JOIN (
+    SELECT TOP(1) [q0].[Id]
+    FROM [Castle] AS [q0]
+    WHERE [q0].[Id] = @__castleId_0
+    ORDER BY [q0].[Id]
+) AS [t] ON [q.CastleDetails].[CastleId] = [t].[Id]
+ORDER BY [t].[Id] 
+2018-01-27 19:03:52.8394|1|INFO|Microsoft.AspNetCore.Mvc.Internal.ObjectResultExecutor|Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext. 
+2018-01-27 19:03:52.8525|2|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action BasicApiCore.Controllers.CastlesController.GetCastle (BasicApiCore) in 214.4161ms 
+2018-01-27 19:03:52.8525|2|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 236.7606ms 200 application/json; charset=utf-8 
+2018-01-27 20:25:39.2710|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (7ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Castle] AS [c])
+    THEN CAST(1 AS BIT) ELSE CAST(0 AS BIT)
+END 
+2018-01-27 20:25:50.9807|1|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 POST http://localhost:60056/api/castle/1/details application/json 70 
+2018-01-27 20:25:51.7107|10403|INFO|Microsoft.EntityFrameworkCore.Infrastructure|Entity Framework Core 2.0.1-rtm-125 initialized 'CastleContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None 
+2018-01-27 20:25:51.7420|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (19ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'__EFMigrationsHistory'); 
+2018-01-27 20:25:51.7420|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (3ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'__EFMigrationsHistory'); 
+2018-01-27 20:25:51.7614|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (0ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId]; 
+2018-01-27 20:25:51.7614|20405|INFO|Microsoft.EntityFrameworkCore.Migrations|No migrations were applied. The database is already up to date. 
+2018-01-27 20:25:52.2208|1|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method BasicApiCore.Controllers.CastleDetailsController.Create (BasicApiCore) with arguments (BasicApiCore.Models.CastleDetailForCreateDto, 1) - ModelState is Valid 
+2018-01-27 20:25:52.3132|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (54ms) [Parameters=[@__castleId_0='?'], CommandType='Text', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Castle] AS [b]
+        WHERE [b].[Id] = @__castleId_0)
+    THEN CAST(1 AS BIT) ELSE CAST(0 AS BIT)
+END 
+2018-01-27 20:25:52.4317|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (2ms) [Parameters=[@__castleId_0='?'], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [q].[Id], [q].[Description], [q].[Name]
+FROM [Castle] AS [q]
+WHERE [q].[Id] = @__castleId_0 
+2018-01-27 20:25:52.6246|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (21ms) [Parameters=[@p0='?', @p1='?' (Size = 50)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [CastleDetail] ([CastleId], [Description])
+VALUES (@p0, @p1);
+SELECT [Id]
+FROM [CastleDetail]
+WHERE @@ROWCOUNT = 1 AND [Id] = scope_identity(); 
+2018-01-27 20:25:52.7167|1|INFO|Microsoft.AspNetCore.Mvc.Internal.ObjectResultExecutor|Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext. 
+2018-01-27 20:25:52.8290|2|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action BasicApiCore.Controllers.CastleDetailsController.Create (BasicApiCore) in 1171.6243ms 
+2018-01-27 20:25:52.8460|2|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 1907.8543ms 201 application/json; charset=utf-8 
+2018-01-27 20:26:01.8809|1|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:60056/api/castle/1/details application/json  
+2018-01-27 20:26:01.9026|10403|INFO|Microsoft.EntityFrameworkCore.Infrastructure|Entity Framework Core 2.0.1-rtm-125 initialized 'CastleContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None 
+2018-01-27 20:26:01.9121|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (0ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'__EFMigrationsHistory'); 
+2018-01-27 20:26:01.9121|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'__EFMigrationsHistory'); 
+2018-01-27 20:26:01.9295|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (0ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId]; 
+2018-01-27 20:26:01.9295|20405|INFO|Microsoft.EntityFrameworkCore.Migrations|No migrations were applied. The database is already up to date. 
+2018-01-27 20:26:01.9494|1|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method BasicApiCore.Controllers.CastleDetailsController.GetCastleDetails (BasicApiCore) with arguments (1) - ModelState is Valid 
+2018-01-27 20:26:01.9494|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (0ms) [Parameters=[@__castleId_0='?'], CommandType='Text', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Castle] AS [b]
+        WHERE [b].[Id] = @__castleId_0)
+    THEN CAST(1 AS BIT) ELSE CAST(0 AS BIT)
+END 
+2018-01-27 20:26:01.9835|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (2ms) [Parameters=[@__castleId_0='?'], CommandType='Text', CommandTimeout='30']
+SELECT [q].[Id], [q].[CastleId], [q].[Description]
+FROM [CastleDetail] AS [q]
+WHERE [q].[CastleId] = @__castleId_0 
+2018-01-27 20:26:02.0067|1|INFO|Microsoft.AspNetCore.Mvc.Internal.ObjectResultExecutor|Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext. 
+2018-01-27 20:26:02.0067|2|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action BasicApiCore.Controllers.CastleDetailsController.GetCastleDetails (BasicApiCore) in 122.3364ms 
+2018-01-27 20:26:02.0278|2|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 142.0056ms 200 application/json; charset=utf-8 
+2018-01-27 20:33:22.7816|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Castle] AS [c])
+    THEN CAST(1 AS BIT) ELSE CAST(0 AS BIT)
+END 
+2018-01-27 20:33:23.2644|1|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:60056/api/values   
+2018-01-27 20:33:23.5952|2|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 343.8523ms 404 text/plain 
+2018-01-27 20:33:56.1594|1|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:60056/api/castle/1/detail/1 application/json  
+2018-01-27 20:33:56.3733|10403|INFO|Microsoft.EntityFrameworkCore.Infrastructure|Entity Framework Core 2.0.1-rtm-125 initialized 'CastleContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None 
+2018-01-27 20:33:56.3942|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'__EFMigrationsHistory'); 
+2018-01-27 20:33:56.4212|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (2ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'__EFMigrationsHistory'); 
+2018-01-27 20:33:56.4268|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (0ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId]; 
+2018-01-27 20:33:56.4268|20405|INFO|Microsoft.EntityFrameworkCore.Migrations|No migrations were applied. The database is already up to date. 
+2018-01-27 20:33:56.5829|1|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method BasicApiCore.Controllers.CastleDetailsController.GetCastleDetail (BasicApiCore) with arguments (1, 1) - ModelState is Valid 
+2018-01-27 20:33:56.6842|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (63ms) [Parameters=[@__castleId_0='?'], CommandType='Text', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Castle] AS [b]
+        WHERE [b].[Id] = @__castleId_0)
+    THEN CAST(1 AS BIT) ELSE CAST(0 AS BIT)
+END 
+2018-01-27 20:33:56.7069|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (1ms) [Parameters=[@__castleDetailId_0='?', @__castleId_1='?'], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [q].[Id], [q].[CastleId], [q].[Description]
+FROM [CastleDetail] AS [q]
+WHERE ([q].[Id] = @__castleDetailId_0) AND ([q].[CastleId] = @__castleId_1) 
+2018-01-27 20:33:56.8036|1|INFO|Microsoft.AspNetCore.Mvc.Internal.ObjectResultExecutor|Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext. 
+2018-01-27 20:33:56.9242|2|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action BasicApiCore.Controllers.CastleDetailsController.GetCastleDetail (BasicApiCore) in 588.6712ms 
+2018-01-27 20:33:56.9301|2|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 769.9928ms 200 application/json; charset=utf-8 
+2018-01-27 20:34:08.8539|1|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 PUT http://localhost:60056/api/castle/1/detail/1 application/json 70 
+2018-01-27 20:34:08.8744|10403|INFO|Microsoft.EntityFrameworkCore.Infrastructure|Entity Framework Core 2.0.1-rtm-125 initialized 'CastleContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None 
+2018-01-27 20:34:08.8815|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'__EFMigrationsHistory'); 
+2018-01-27 20:34:08.8815|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (0ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'__EFMigrationsHistory'); 
+2018-01-27 20:34:08.8954|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId]; 
+2018-01-27 20:34:08.8954|20405|INFO|Microsoft.EntityFrameworkCore.Migrations|No migrations were applied. The database is already up to date. 
+2018-01-27 20:34:08.9900|1|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method BasicApiCore.Controllers.CastleDetailsController.Update (BasicApiCore) with arguments (1, 1, BasicApiCore.Models.CastleDetailForUpdateDto) - ModelState is Valid 
+2018-01-27 20:34:08.9900|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (1ms) [Parameters=[@__castleId_0='?'], CommandType='Text', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Castle] AS [b]
+        WHERE [b].[Id] = @__castleId_0)
+    THEN CAST(1 AS BIT) ELSE CAST(0 AS BIT)
+END 
+2018-01-27 20:34:09.0053|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (1ms) [Parameters=[@__castleDetailId_0='?', @__castleId_1='?'], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [q].[Id], [q].[CastleId], [q].[Description]
+FROM [CastleDetail] AS [q]
+WHERE ([q].[Id] = @__castleDetailId_0) AND ([q].[CastleId] = @__castleId_1) 
+2018-01-27 20:34:09.0806|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (20ms) [Parameters=[@p1='?', @p0='?' (Size = 50)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+UPDATE [CastleDetail] SET [Description] = @p0
+WHERE [Id] = @p1;
+SELECT @@ROWCOUNT; 
+2018-01-27 20:34:09.1013|1|INFO|Microsoft.AspNetCore.Mvc.StatusCodeResult|Executing HttpStatusCodeResult, setting HTTP status code 204 
+2018-01-27 20:34:09.1013|2|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action BasicApiCore.Controllers.CastleDetailsController.Update (BasicApiCore) in 237.8443ms 
+2018-01-27 20:34:09.1257|2|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 264.0606ms 204  
+2018-01-27 20:34:13.2497|1|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 POST http://localhost:60056/api/castle/1/detail/1 application/json 70 
+2018-01-27 20:34:13.2795|2|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 19.4872ms 404 text/plain 
+2018-01-27 20:34:17.3462|1|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:60056/api/castle/1/detail/1 application/json  
+2018-01-27 20:34:17.3530|10403|INFO|Microsoft.EntityFrameworkCore.Infrastructure|Entity Framework Core 2.0.1-rtm-125 initialized 'CastleContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None 
+2018-01-27 20:34:17.3530|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (0ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'__EFMigrationsHistory'); 
+2018-01-27 20:34:17.3530|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (0ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'__EFMigrationsHistory'); 
+2018-01-27 20:34:17.3685|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (0ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId]; 
+2018-01-27 20:34:17.3685|20405|INFO|Microsoft.EntityFrameworkCore.Migrations|No migrations were applied. The database is already up to date. 
+2018-01-27 20:34:17.3685|1|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method BasicApiCore.Controllers.CastleDetailsController.GetCastleDetail (BasicApiCore) with arguments (1, 1) - ModelState is Valid 
+2018-01-27 20:34:17.3822|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (1ms) [Parameters=[@__castleId_0='?'], CommandType='Text', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Castle] AS [b]
+        WHERE [b].[Id] = @__castleId_0)
+    THEN CAST(1 AS BIT) ELSE CAST(0 AS BIT)
+END 
+2018-01-27 20:34:17.3822|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (1ms) [Parameters=[@__castleDetailId_0='?', @__castleId_1='?'], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [q].[Id], [q].[CastleId], [q].[Description]
+FROM [CastleDetail] AS [q]
+WHERE ([q].[Id] = @__castleDetailId_0) AND ([q].[CastleId] = @__castleId_1) 
+2018-01-27 20:34:17.3822|1|INFO|Microsoft.AspNetCore.Mvc.Internal.ObjectResultExecutor|Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext. 
+2018-01-27 20:34:17.3990|2|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action BasicApiCore.Controllers.CastleDetailsController.GetCastleDetail (BasicApiCore) in 46.9746ms 
+2018-01-27 20:34:17.3990|2|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 56.662ms 200 application/json; charset=utf-8 
+2018-01-27 20:34:26.5624|1|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 PUT http://localhost:60056/api/castle/1/detail/1 application/json 72 
+2018-01-27 20:34:26.5696|10403|INFO|Microsoft.EntityFrameworkCore.Infrastructure|Entity Framework Core 2.0.1-rtm-125 initialized 'CastleContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None 
+2018-01-27 20:34:26.5696|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (0ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'__EFMigrationsHistory'); 
+2018-01-27 20:34:26.5696|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'__EFMigrationsHistory'); 
+2018-01-27 20:34:26.5888|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId]; 
+2018-01-27 20:34:26.5888|20405|INFO|Microsoft.EntityFrameworkCore.Migrations|No migrations were applied. The database is already up to date. 
+2018-01-27 20:34:26.5999|1|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method BasicApiCore.Controllers.CastleDetailsController.Update (BasicApiCore) with arguments (1, 1, BasicApiCore.Models.CastleDetailForUpdateDto) - ModelState is Valid 
+2018-01-27 20:34:26.5999|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (0ms) [Parameters=[@__castleId_0='?'], CommandType='Text', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Castle] AS [b]
+        WHERE [b].[Id] = @__castleId_0)
+    THEN CAST(1 AS BIT) ELSE CAST(0 AS BIT)
+END 
+2018-01-27 20:34:26.5999|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (0ms) [Parameters=[@__castleDetailId_0='?', @__castleId_1='?'], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [q].[Id], [q].[CastleId], [q].[Description]
+FROM [CastleDetail] AS [q]
+WHERE ([q].[Id] = @__castleDetailId_0) AND ([q].[CastleId] = @__castleId_1) 
+2018-01-27 20:34:26.6240|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (4ms) [Parameters=[@p1='?', @p0='?' (Size = 50)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+UPDATE [CastleDetail] SET [Description] = @p0
+WHERE [Id] = @p1;
+SELECT @@ROWCOUNT; 
+2018-01-27 20:34:26.6240|1|INFO|Microsoft.AspNetCore.Mvc.StatusCodeResult|Executing HttpStatusCodeResult, setting HTTP status code 204 
+2018-01-27 20:34:26.6347|2|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action BasicApiCore.Controllers.CastleDetailsController.Update (BasicApiCore) in 65.6305ms 
+2018-01-27 20:34:26.6347|2|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 76.5136ms 204  
+2018-01-27 20:34:29.3896|1|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:60056/api/castle/1/detail/1 application/json  
+2018-01-27 20:34:29.3966|10403|INFO|Microsoft.EntityFrameworkCore.Infrastructure|Entity Framework Core 2.0.1-rtm-125 initialized 'CastleContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None 
+2018-01-27 20:34:29.3966|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (0ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'__EFMigrationsHistory'); 
+2018-01-27 20:34:29.3966|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (0ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'__EFMigrationsHistory'); 
+2018-01-27 20:34:29.4149|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (0ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId]; 
+2018-01-27 20:34:29.4149|20405|INFO|Microsoft.EntityFrameworkCore.Migrations|No migrations were applied. The database is already up to date. 
+2018-01-27 20:34:29.4149|1|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method BasicApiCore.Controllers.CastleDetailsController.GetCastleDetail (BasicApiCore) with arguments (1, 1) - ModelState is Valid 
+2018-01-27 20:34:29.4285|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (0ms) [Parameters=[@__castleId_0='?'], CommandType='Text', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Castle] AS [b]
+        WHERE [b].[Id] = @__castleId_0)
+    THEN CAST(1 AS BIT) ELSE CAST(0 AS BIT)
+END 
+2018-01-27 20:34:29.4285|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (0ms) [Parameters=[@__castleDetailId_0='?', @__castleId_1='?'], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [q].[Id], [q].[CastleId], [q].[Description]
+FROM [CastleDetail] AS [q]
+WHERE ([q].[Id] = @__castleDetailId_0) AND ([q].[CastleId] = @__castleId_1) 
+2018-01-27 20:34:29.4285|1|INFO|Microsoft.AspNetCore.Mvc.Internal.ObjectResultExecutor|Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext. 
+2018-01-27 20:34:29.4423|2|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action BasicApiCore.Controllers.CastleDetailsController.GetCastleDetail (BasicApiCore) in 46.7808ms 
+2018-01-27 20:34:29.4423|2|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 57.2008ms 200 application/json; charset=utf-8 
+2018-01-27 20:48:30.3357|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Castle] AS [c])
+    THEN CAST(1 AS BIT) ELSE CAST(0 AS BIT)
+END 
+2018-01-27 20:48:30.7323|1|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:60056/api/values   
+2018-01-27 20:48:31.0790|2|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 341.1762ms 404 text/plain 
+2018-01-27 20:48:39.3910|1|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:60056/api/castle/1/detail/1 application/json  
+2018-01-27 20:48:39.8021|10403|INFO|Microsoft.EntityFrameworkCore.Infrastructure|Entity Framework Core 2.0.1-rtm-125 initialized 'CastleContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None 
+2018-01-27 20:48:39.8275|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (7ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'__EFMigrationsHistory'); 
+2018-01-27 20:48:39.8428|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (2ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'__EFMigrationsHistory'); 
+2018-01-27 20:48:39.8499|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (0ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId]; 
+2018-01-27 20:48:39.8661|20405|INFO|Microsoft.EntityFrameworkCore.Migrations|No migrations were applied. The database is already up to date. 
+2018-01-27 20:48:40.0583|1|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method BasicApiCore.Controllers.CastleDetailsController.GetCastleDetail (BasicApiCore) with arguments (1, 1) - ModelState is Valid 
+2018-01-27 20:48:40.1750|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (61ms) [Parameters=[@__castleId_0='?'], CommandType='Text', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Castle] AS [b]
+        WHERE [b].[Id] = @__castleId_0)
+    THEN CAST(1 AS BIT) ELSE CAST(0 AS BIT)
+END 
+2018-01-27 20:48:40.2048|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (1ms) [Parameters=[@__castleDetailId_0='?', @__castleId_1='?'], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [q].[Id], [q].[CastleId], [q].[Description]
+FROM [CastleDetail] AS [q]
+WHERE ([q].[Id] = @__castleDetailId_0) AND ([q].[CastleId] = @__castleId_1) 
+2018-01-27 20:48:40.3815|1|INFO|Microsoft.AspNetCore.Mvc.Internal.ObjectResultExecutor|Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext. 
+2018-01-27 20:48:40.5668|2|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action BasicApiCore.Controllers.CastleDetailsController.GetCastleDetail (BasicApiCore) in 790.4109ms 
+2018-01-27 20:48:40.5860|2|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 1192.4301ms 200 application/json; charset=utf-8 
+2018-01-27 20:48:45.0406|1|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 DELETE http://localhost:60056/api/castle/1/detail/1 application/json 72 
+2018-01-27 20:48:45.0543|10403|INFO|Microsoft.EntityFrameworkCore.Infrastructure|Entity Framework Core 2.0.1-rtm-125 initialized 'CastleContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None 
+2018-01-27 20:48:45.0684|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'__EFMigrationsHistory'); 
+2018-01-27 20:48:45.0839|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (4ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'__EFMigrationsHistory'); 
+2018-01-27 20:48:45.0839|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (4ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId]; 
+2018-01-27 20:48:45.1033|20405|INFO|Microsoft.EntityFrameworkCore.Migrations|No migrations were applied. The database is already up to date. 
+2018-01-27 20:48:45.1227|1|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method BasicApiCore.Controllers.CastleDetailsController.Delete (BasicApiCore) with arguments (1, 1) - ModelState is Valid 
+2018-01-27 20:48:45.1325|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (0ms) [Parameters=[@__castleId_0='?'], CommandType='Text', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Castle] AS [b]
+        WHERE [b].[Id] = @__castleId_0)
+    THEN CAST(1 AS BIT) ELSE CAST(0 AS BIT)
+END 
+2018-01-27 20:48:45.1325|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (5ms) [Parameters=[@__castleDetailId_0='?', @__castleId_1='?'], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [q].[Id], [q].[CastleId], [q].[Description]
+FROM [CastleDetail] AS [q]
+WHERE ([q].[Id] = @__castleDetailId_0) AND ([q].[CastleId] = @__castleId_1) 
+2018-01-27 20:48:45.2508|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (3ms) [Parameters=[@p0='?'], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+DELETE FROM [CastleDetail]
+WHERE [Id] = @p0;
+SELECT @@ROWCOUNT; 
+2018-01-27 20:48:45.2877|1|INFO|Microsoft.AspNetCore.Mvc.StatusCodeResult|Executing HttpStatusCodeResult, setting HTTP status code 204 
+2018-01-27 20:48:45.2877|2|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action BasicApiCore.Controllers.CastleDetailsController.Delete (BasicApiCore) in 244.5283ms 
+2018-01-27 20:48:45.3152|2|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 274.6634ms 204  
+2018-01-27 20:48:49.7415|1|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:60056/api/castle/1/detail/1 application/json  
+2018-01-27 20:48:49.7624|10403|INFO|Microsoft.EntityFrameworkCore.Infrastructure|Entity Framework Core 2.0.1-rtm-125 initialized 'CastleContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None 
+2018-01-27 20:48:49.7733|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (0ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'__EFMigrationsHistory'); 
+2018-01-27 20:48:49.7908|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'__EFMigrationsHistory'); 
+2018-01-27 20:48:49.7908|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (0ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId]; 
+2018-01-27 20:48:49.8026|20405|INFO|Microsoft.EntityFrameworkCore.Migrations|No migrations were applied. The database is already up to date. 
+2018-01-27 20:48:49.8026|1|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method BasicApiCore.Controllers.CastleDetailsController.GetCastleDetail (BasicApiCore) with arguments (1, 1) - ModelState is Valid 
+2018-01-27 20:48:49.8026|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (0ms) [Parameters=[@__castleId_0='?'], CommandType='Text', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Castle] AS [b]
+        WHERE [b].[Id] = @__castleId_0)
+    THEN CAST(1 AS BIT) ELSE CAST(0 AS BIT)
+END 
+2018-01-27 20:48:49.8210|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (0ms) [Parameters=[@__castleDetailId_0='?', @__castleId_1='?'], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [q].[Id], [q].[CastleId], [q].[Description]
+FROM [CastleDetail] AS [q]
+WHERE ([q].[Id] = @__castleDetailId_0) AND ([q].[CastleId] = @__castleId_1) 
+2018-01-27 20:48:49.8210|1|INFO|Microsoft.AspNetCore.Mvc.StatusCodeResult|Executing HttpStatusCodeResult, setting HTTP status code 404 
+2018-01-27 20:48:49.8210|2|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action BasicApiCore.Controllers.CastleDetailsController.GetCastleDetail (BasicApiCore) in 76.3265ms 
+2018-01-27 20:48:49.8422|2|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 97.8641ms 404 text/plain 
+2018-01-27 20:48:53.6428|1|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:60056/api/castle/1/detail application/json  
+2018-01-27 20:48:53.6728|2|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 6.0844ms 404 text/plain 
+2018-01-27 20:48:56.2876|1|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:60056/api/castle/1/details application/json  
+2018-01-27 20:48:56.2876|10403|INFO|Microsoft.EntityFrameworkCore.Infrastructure|Entity Framework Core 2.0.1-rtm-125 initialized 'CastleContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None 
+2018-01-27 20:48:56.3118|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (0ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'__EFMigrationsHistory'); 
+2018-01-27 20:48:56.3197|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (2ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'__EFMigrationsHistory'); 
+2018-01-27 20:48:56.3197|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (0ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId]; 
+2018-01-27 20:48:56.3387|20405|INFO|Microsoft.EntityFrameworkCore.Migrations|No migrations were applied. The database is already up to date. 
+2018-01-27 20:48:56.3387|1|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method BasicApiCore.Controllers.CastleDetailsController.GetCastleDetails (BasicApiCore) with arguments (1) - ModelState is Valid 
+2018-01-27 20:48:56.3557|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (0ms) [Parameters=[@__castleId_0='?'], CommandType='Text', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Castle] AS [b]
+        WHERE [b].[Id] = @__castleId_0)
+    THEN CAST(1 AS BIT) ELSE CAST(0 AS BIT)
+END 
+2018-01-27 20:48:56.3769|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (2ms) [Parameters=[@__castleId_0='?'], CommandType='Text', CommandTimeout='30']
+SELECT [q].[Id], [q].[CastleId], [q].[Description]
+FROM [CastleDetail] AS [q]
+WHERE [q].[CastleId] = @__castleId_0 
+2018-01-27 20:48:56.3992|1|INFO|Microsoft.AspNetCore.Mvc.Internal.ObjectResultExecutor|Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext. 
+2018-01-27 20:48:56.4109|2|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action BasicApiCore.Controllers.CastleDetailsController.GetCastleDetails (BasicApiCore) in 113.7622ms 
+2018-01-27 20:48:56.4109|2|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 128.6576ms 200 application/json; charset=utf-8 

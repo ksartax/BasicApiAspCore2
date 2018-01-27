@@ -1,0 +1,220 @@
+2018-01-22 16:45:28.1757 Info Adding target File Target[allfile]
+2018-01-22 16:45:28.2024 Error Parsing configuration from C:\Users\damia.DESKTOP-836KIV2\source\repos\BasicApiCore\BasicApiCore\bin\Release\netcoreapp2.0\NLog.config failed. Exception: NLog.NLogConfigurationException: Exception when parsing C:\Users\damia.DESKTOP-836KIV2\source\repos\BasicApiCore\BasicApiCore\bin\Release\netcoreapp2.0\NLog.config.  ---> NLog.NLogConfigurationException: Target logfile not found.
+   at NLog.Config.XmlLoggingConfiguration.ParseLoggerElement(NLogXmlElement loggerElement, IList`1 rulesCollection)
+   at NLog.Config.XmlLoggingConfiguration.ParseRulesElement(NLogXmlElement rulesElement, IList`1 rulesCollection)
+   at NLog.Config.XmlLoggingConfiguration.ParseNLogElement(NLogXmlElement nlogElement, String filePath, Boolean autoReloadDefault)
+   at NLog.Config.XmlLoggingConfiguration.Initialize(XmlReader reader, String fileName, Boolean ignoreErrors)
+   --- End of inner exception stack trace ---
+2018-01-22 16:45:28.2923 Info Found 19 configuration items
+2018-01-22 16:45:28.3248 Info Configuration initialized.
+2018-01-22 16:45:28.3248 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-22 16:47:07.8958 Info Adding target File Target[logfile]
+2018-01-22 16:47:07.9273 Info Configured from an XML element in C:\Users\damia.DESKTOP-836KIV2\source\repos\BasicApiCore\BasicApiCore\bin\Release\netcoreapp2.0\NLog.config...
+2018-01-22 16:47:07.9620 Info Found 20 configuration items
+2018-01-22 16:47:07.9971 Info Configuration initialized.
+2018-01-22 16:47:07.9971 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-22 16:48:41.9539 Info Adding target File Target[logfile]
+2018-01-22 16:48:41.9759 Info Configured from an XML element in C:\Users\damia.DESKTOP-836KIV2\source\repos\BasicApiCore\BasicApiCore\bin\Release\netcoreapp2.0\NLog.config...
+2018-01-22 16:48:42.0092 Info Found 20 configuration items
+2018-01-22 16:48:42.0452 Info Configuration initialized.
+2018-01-22 16:48:42.0452 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-23 02:35:02.6134 Info Adding target File Target[logfile]
+2018-01-23 02:35:02.6338 Info Configured from an XML element in C:\Users\damia.DESKTOP-836KIV2\source\repos\BasicApiCore\BasicApiCore\bin\Debug\netcoreapp2.0\NLog.config...
+2018-01-23 02:35:02.6603 Info Found 20 configuration items
+2018-01-23 02:35:02.7025 Info Configuration initialized.
+2018-01-23 02:35:02.7025 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-24 23:37:40.9685 Info Adding target File Target[logfile]
+2018-01-24 23:37:41.0338 Info Configured from an XML element in C:\Users\damia.DESKTOP-836KIV2\source\repos\BasicApiCore\BasicApiCore\bin\Debug\netcoreapp2.0\NLog.config...
+2018-01-24 23:37:41.0760 Info Found 20 configuration items
+2018-01-24 23:37:41.0998 Info Configuration initialized.
+2018-01-24 23:37:41.0998 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-27 13:52:18.7522 Info Adding target File Target[logfile]
+2018-01-27 13:52:18.8648 Info Configured from an XML element in C:\Users\damia.DESKTOP-836KIV2\source\repos\BasicApiCore\BasicApiCore\bin\Debug\netcoreapp2.0\NLog.config...
+2018-01-27 13:52:18.9068 Info Found 20 configuration items
+2018-01-27 13:52:18.9333 Info Configuration initialized.
+2018-01-27 13:52:18.9333 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-27 14:02:42.8501 Info Adding target File Target[logfile]
+2018-01-27 14:02:42.8852 Info Configured from an XML element in C:\Users\damia.DESKTOP-836KIV2\source\repos\BasicApiCore\BasicApiCore\bin\Debug\netcoreapp2.0\NLog.config...
+2018-01-27 14:02:42.9201 Info Found 20 configuration items
+2018-01-27 14:02:42.9485 Info Configuration initialized.
+2018-01-27 14:02:42.9485 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-27 14:03:47.8847 Info Adding target File Target[logfile]
+2018-01-27 14:03:47.9130 Info Configured from an XML element in C:\Users\damia.DESKTOP-836KIV2\source\repos\BasicApiCore\BasicApiCore\bin\Debug\netcoreapp2.0\NLog.config...
+2018-01-27 14:03:47.9378 Info Found 20 configuration items
+2018-01-27 14:03:47.9609 Info Configuration initialized.
+2018-01-27 14:03:47.9609 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-27 14:05:27.8827 Info Adding target File Target[logfile]
+2018-01-27 14:05:27.9072 Info Configured from an XML element in C:\Users\damia.DESKTOP-836KIV2\source\repos\BasicApiCore\BasicApiCore\bin\Debug\netcoreapp2.0\NLog.config...
+2018-01-27 14:05:27.9320 Info Found 20 configuration items
+2018-01-27 14:05:27.9584 Info Configuration initialized.
+2018-01-27 14:05:27.9599 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-27 14:05:59.9930 Info Adding target File Target[logfile]
+2018-01-27 14:06:00.0344 Info Configured from an XML element in C:\Users\damia.DESKTOP-836KIV2\source\repos\BasicApiCore\BasicApiCore\bin\Release\netcoreapp2.0\NLog.config...
+2018-01-27 14:06:00.0903 Info Found 20 configuration items
+2018-01-27 14:06:00.1227 Info Configuration initialized.
+2018-01-27 14:06:00.1227 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-27 15:10:42.0687 Info Adding target File Target[logfile]
+2018-01-27 15:10:42.0932 Info Configured from an XML element in C:\Users\damia.DESKTOP-836KIV2\source\repos\BasicApiCore\BasicApiCore\bin\Debug\netcoreapp2.0\NLog.config...
+2018-01-27 15:10:42.1225 Info Found 20 configuration items
+2018-01-27 15:10:42.1569 Info Configuration initialized.
+2018-01-27 15:10:42.1569 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-27 15:11:41.5984 Info Adding target File Target[logfile]
+2018-01-27 15:11:41.6344 Info Configured from an XML element in C:\Users\damia.DESKTOP-836KIV2\source\repos\BasicApiCore\BasicApiCore\bin\Debug\netcoreapp2.0\NLog.config...
+2018-01-27 15:11:41.6735 Info Found 20 configuration items
+2018-01-27 15:11:41.7000 Info Configuration initialized.
+2018-01-27 15:11:41.7000 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-27 15:13:12.6996 Info Adding target File Target[logfile]
+2018-01-27 15:13:12.7234 Info Configured from an XML element in C:\Users\damia.DESKTOP-836KIV2\source\repos\BasicApiCore\BasicApiCore\bin\Debug\netcoreapp2.0\NLog.config...
+2018-01-27 15:13:12.7484 Info Found 20 configuration items
+2018-01-27 15:13:12.7715 Info Configuration initialized.
+2018-01-27 15:13:12.7715 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-27 15:42:37.8673 Info Adding target File Target[logfile]
+2018-01-27 15:42:37.8673 Info Configured from an XML element in C:\Users\damia.DESKTOP-836KIV2\source\repos\BasicApiCore\BasicApiCore\bin\Debug\netcoreapp2.0\NLog.config...
+2018-01-27 15:42:37.9026 Info Found 20 configuration items
+2018-01-27 15:42:37.9284 Info Configuration initialized.
+2018-01-27 15:42:37.9284 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-27 15:42:38.6072 Info Shutting down logging...
+2018-01-27 15:42:38.6441 Info Logger has been shut down.
+2018-01-27 15:47:50.4150 Info Adding target File Target[logfile]
+2018-01-27 15:47:50.4281 Info Configured from an XML element in C:\Users\damia.DESKTOP-836KIV2\source\repos\BasicApiCore\BasicApiCore\bin\Debug\netcoreapp2.0\NLog.config...
+2018-01-27 15:47:50.4563 Info Found 20 configuration items
+2018-01-27 15:47:50.4805 Info Configuration initialized.
+2018-01-27 15:47:50.4805 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-27 15:47:51.5905 Info Shutting down logging...
+2018-01-27 15:47:51.6176 Info Logger has been shut down.
+2018-01-27 15:49:46.3169 Info Adding target File Target[logfile]
+2018-01-27 15:49:46.3441 Info Configured from an XML element in C:\Users\damia.DESKTOP-836KIV2\source\repos\BasicApiCore\BasicApiCore\bin\Debug\netcoreapp2.0\NLog.config...
+2018-01-27 15:49:46.3695 Info Found 20 configuration items
+2018-01-27 15:49:46.3953 Info Configuration initialized.
+2018-01-27 15:49:46.3967 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-27 15:50:00.3270 Info Adding target File Target[logfile]
+2018-01-27 15:50:00.3406 Info Configured from an XML element in C:\Users\damia.DESKTOP-836KIV2\source\repos\BasicApiCore\BasicApiCore\bin\Debug\netcoreapp2.0\NLog.config...
+2018-01-27 15:50:00.3725 Info Found 20 configuration items
+2018-01-27 15:50:00.4002 Info Configuration initialized.
+2018-01-27 15:50:00.4002 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-27 15:50:01.3135 Info Shutting down logging...
+2018-01-27 15:50:01.3447 Info Logger has been shut down.
+2018-01-27 15:52:21.1964 Info Adding target File Target[logfile]
+2018-01-27 15:52:21.1964 Info Configured from an XML element in C:\Users\damia.DESKTOP-836KIV2\source\repos\BasicApiCore\BasicApiCore\bin\Debug\netcoreapp2.0\NLog.config...
+2018-01-27 15:52:21.2310 Info Found 20 configuration items
+2018-01-27 15:52:21.2522 Info Configuration initialized.
+2018-01-27 15:52:21.2522 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-27 15:52:21.8362 Info Shutting down logging...
+2018-01-27 15:52:21.8626 Info Logger has been shut down.
+2018-01-27 15:53:57.2346 Info Adding target File Target[logfile]
+2018-01-27 15:53:57.2478 Info Configured from an XML element in C:\Users\damia.DESKTOP-836KIV2\source\repos\BasicApiCore\BasicApiCore\bin\Debug\netcoreapp2.0\NLog.config...
+2018-01-27 15:53:57.2763 Info Found 20 configuration items
+2018-01-27 15:53:57.2977 Info Configuration initialized.
+2018-01-27 15:53:57.2977 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-27 15:53:57.8661 Info Shutting down logging...
+2018-01-27 15:53:57.8936 Info Logger has been shut down.
+2018-01-27 15:54:43.6229 Info Adding target File Target[logfile]
+2018-01-27 15:54:43.6351 Info Configured from an XML element in C:\Users\damia.DESKTOP-836KIV2\source\repos\BasicApiCore\BasicApiCore\bin\Debug\netcoreapp2.0\NLog.config...
+2018-01-27 15:54:43.6577 Info Found 20 configuration items
+2018-01-27 15:54:43.6788 Info Configuration initialized.
+2018-01-27 15:54:43.6788 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-27 15:54:44.2637 Info Shutting down logging...
+2018-01-27 15:54:44.2957 Info Logger has been shut down.
+2018-01-27 15:57:07.0655 Info Adding target File Target[logfile]
+2018-01-27 15:57:07.0773 Info Configured from an XML element in C:\Users\damia.DESKTOP-836KIV2\source\repos\BasicApiCore\BasicApiCore\bin\Debug\netcoreapp2.0\NLog.config...
+2018-01-27 15:57:07.1039 Info Found 20 configuration items
+2018-01-27 15:57:07.1252 Info Configuration initialized.
+2018-01-27 15:57:07.1252 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-27 15:57:08.8183 Info Shutting down logging...
+2018-01-27 15:57:08.8401 Info Logger has been shut down.
+2018-01-27 15:58:04.1346 Info Adding target File Target[logfile]
+2018-01-27 15:58:04.1470 Info Configured from an XML element in C:\Users\damia.DESKTOP-836KIV2\source\repos\BasicApiCore\BasicApiCore\bin\Debug\netcoreapp2.0\NLog.config...
+2018-01-27 15:58:04.1709 Info Found 20 configuration items
+2018-01-27 15:58:04.1790 Info Configuration initialized.
+2018-01-27 15:58:04.1944 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-27 15:58:04.7479 Info Shutting down logging...
+2018-01-27 15:58:04.7703 Info Logger has been shut down.
+2018-01-27 16:48:02.4935 Info Adding target File Target[logfile]
+2018-01-27 16:48:02.5183 Info Configured from an XML element in C:\Users\damia.DESKTOP-836KIV2\source\repos\BasicApiCore\BasicApiCore\bin\Debug\netcoreapp2.0\NLog.config...
+2018-01-27 16:48:02.5523 Info Found 20 configuration items
+2018-01-27 16:48:02.5813 Info Configuration initialized.
+2018-01-27 16:48:02.5813 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-27 18:41:49.4504 Info Adding target File Target[logfile]
+2018-01-27 18:41:49.4841 Info Configured from an XML element in C:\Users\damia.DESKTOP-836KIV2\source\repos\BasicApiCore\BasicApiCore\bin\Debug\netcoreapp2.0\NLog.config...
+2018-01-27 18:41:49.5343 Info Found 20 configuration items
+2018-01-27 18:41:49.5636 Info Configuration initialized.
+2018-01-27 18:41:49.5636 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-27 18:48:11.8043 Info Adding target File Target[logfile]
+2018-01-27 18:48:11.8254 Info Configured from an XML element in C:\Users\damia.DESKTOP-836KIV2\source\repos\BasicApiCore\BasicApiCore\bin\Debug\netcoreapp2.0\NLog.config...
+2018-01-27 18:48:11.8489 Info Found 20 configuration items
+2018-01-27 18:48:11.8775 Info Configuration initialized.
+2018-01-27 18:48:11.8775 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-27 18:50:51.0160 Info Adding target File Target[logfile]
+2018-01-27 18:50:51.0442 Info Configured from an XML element in C:\Users\damia.DESKTOP-836KIV2\source\repos\BasicApiCore\BasicApiCore\bin\Debug\netcoreapp2.0\NLog.config...
+2018-01-27 18:50:51.0849 Info Found 20 configuration items
+2018-01-27 18:50:51.1167 Info Configuration initialized.
+2018-01-27 18:50:51.1167 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-27 18:52:21.1264 Info Adding target File Target[logfile]
+2018-01-27 18:52:21.1556 Info Configured from an XML element in C:\Users\damia.DESKTOP-836KIV2\source\repos\BasicApiCore\BasicApiCore\bin\Debug\netcoreapp2.0\NLog.config...
+2018-01-27 18:52:21.1875 Info Found 20 configuration items
+2018-01-27 18:52:21.2117 Info Configuration initialized.
+2018-01-27 18:52:21.2117 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-27 18:54:18.9589 Info Adding target File Target[logfile]
+2018-01-27 18:54:18.9824 Info Configured from an XML element in C:\Users\damia.DESKTOP-836KIV2\source\repos\BasicApiCore\BasicApiCore\bin\Debug\netcoreapp2.0\NLog.config...
+2018-01-27 18:54:19.0164 Info Found 20 configuration items
+2018-01-27 18:54:19.0483 Info Configuration initialized.
+2018-01-27 18:54:19.0483 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-27 18:56:03.7369 Info Adding target File Target[logfile]
+2018-01-27 18:56:03.7666 Info Configured from an XML element in C:\Users\damia.DESKTOP-836KIV2\source\repos\BasicApiCore\BasicApiCore\bin\Debug\netcoreapp2.0\NLog.config...
+2018-01-27 18:56:03.8041 Info Found 20 configuration items
+2018-01-27 18:56:03.8332 Info Configuration initialized.
+2018-01-27 18:56:03.8351 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-27 18:58:29.0951 Info Adding target File Target[logfile]
+2018-01-27 18:58:29.1312 Info Configured from an XML element in C:\Users\damia.DESKTOP-836KIV2\source\repos\BasicApiCore\BasicApiCore\bin\Debug\netcoreapp2.0\NLog.config...
+2018-01-27 18:58:29.1641 Info Found 20 configuration items
+2018-01-27 18:58:29.1922 Info Configuration initialized.
+2018-01-27 18:58:29.1943 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-27 18:59:24.9378 Info Adding target File Target[logfile]
+2018-01-27 18:59:24.9533 Info Configured from an XML element in C:\Users\damia.DESKTOP-836KIV2\source\repos\BasicApiCore\BasicApiCore\bin\Debug\netcoreapp2.0\NLog.config...
+2018-01-27 18:59:24.9892 Info Found 20 configuration items
+2018-01-27 18:59:25.0237 Info Configuration initialized.
+2018-01-27 18:59:25.0237 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-27 18:59:25.7130 Info Shutting down logging...
+2018-01-27 18:59:25.7564 Info Logger has been shut down.
+2018-01-27 19:00:57.6213 Info Adding target File Target[logfile]
+2018-01-27 19:00:57.6396 Info Configured from an XML element in C:\Users\damia.DESKTOP-836KIV2\source\repos\BasicApiCore\BasicApiCore\bin\Debug\netcoreapp2.0\NLog.config...
+2018-01-27 19:00:57.6697 Info Found 20 configuration items
+2018-01-27 19:00:57.6785 Info Configuration initialized.
+2018-01-27 19:00:57.6967 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-27 19:00:58.3278 Info Shutting down logging...
+2018-01-27 19:00:58.3599 Info Logger has been shut down.
+2018-01-27 19:01:13.7069 Info Adding target File Target[logfile]
+2018-01-27 19:01:13.7375 Info Configured from an XML element in C:\Users\damia.DESKTOP-836KIV2\source\repos\BasicApiCore\BasicApiCore\bin\Debug\netcoreapp2.0\NLog.config...
+2018-01-27 19:01:13.7737 Info Found 20 configuration items
+2018-01-27 19:01:13.8022 Info Configuration initialized.
+2018-01-27 19:01:13.8036 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-27 19:01:35.3183 Info Adding target File Target[logfile]
+2018-01-27 19:01:35.3499 Info Configured from an XML element in C:\Users\damia.DESKTOP-836KIV2\source\repos\BasicApiCore\BasicApiCore\bin\Debug\netcoreapp2.0\NLog.config...
+2018-01-27 19:01:35.3911 Info Found 20 configuration items
+2018-01-27 19:01:35.4213 Info Configuration initialized.
+2018-01-27 19:01:35.4213 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-27 19:03:00.5794 Info Adding target File Target[logfile]
+2018-01-27 19:03:00.6237 Info Configured from an XML element in C:\Users\damia.DESKTOP-836KIV2\source\repos\BasicApiCore\BasicApiCore\bin\Debug\netcoreapp2.0\NLog.config...
+2018-01-27 19:03:00.6750 Info Found 20 configuration items
+2018-01-27 19:03:00.7102 Info Configuration initialized.
+2018-01-27 19:03:00.7102 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-27 19:03:45.5787 Info Adding target File Target[logfile]
+2018-01-27 19:03:45.6509 Info Configured from an XML element in C:\Users\damia.DESKTOP-836KIV2\source\repos\BasicApiCore\BasicApiCore\bin\Debug\netcoreapp2.0\NLog.config...
+2018-01-27 19:03:45.6794 Info Found 20 configuration items
+2018-01-27 19:03:45.7132 Info Configuration initialized.
+2018-01-27 19:03:45.7132 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-27 20:25:37.7967 Info Adding target File Target[logfile]
+2018-01-27 20:25:37.8531 Info Configured from an XML element in C:\Users\damia.DESKTOP-836KIV2\source\repos\BasicApiCore\BasicApiCore\bin\Debug\netcoreapp2.0\NLog.config...
+2018-01-27 20:25:37.9027 Info Found 20 configuration items
+2018-01-27 20:25:37.9683 Info Configuration initialized.
+2018-01-27 20:25:37.9683 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-27 20:33:21.9354 Info Adding target File Target[logfile]
+2018-01-27 20:33:21.9776 Info Configured from an XML element in C:\Users\damia.DESKTOP-836KIV2\source\repos\BasicApiCore\BasicApiCore\bin\Debug\netcoreapp2.0\NLog.config...
+2018-01-27 20:33:22.0048 Info Found 20 configuration items
+2018-01-27 20:33:22.0434 Info Configuration initialized.
+2018-01-27 20:33:22.0434 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-27 20:48:29.3777 Info Adding target File Target[logfile]
+2018-01-27 20:48:29.4096 Info Configured from an XML element in C:\Users\damia.DESKTOP-836KIV2\source\repos\BasicApiCore\BasicApiCore\bin\Debug\netcoreapp2.0\NLog.config...
+2018-01-27 20:48:29.4391 Info Found 20 configuration items
+2018-01-27 20:48:29.4804 Info Configuration initialized.
+2018-01-27 20:48:29.4804 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c

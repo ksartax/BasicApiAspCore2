@@ -1,0 +1,12 @@
+C:\Users\damia.DESKTOP-836KIV2\source\repos\BasicApiCore\BasicApiCore\bin\Debug\netcoreapp2.0\BasicApiCore.deps.json
+C:\Users\damia.DESKTOP-836KIV2\source\repos\BasicApiCore\BasicApiCore\bin\Debug\netcoreapp2.0\BasicApiCore.runtimeconfig.json
+C:\Users\damia.DESKTOP-836KIV2\source\repos\BasicApiCore\BasicApiCore\bin\Debug\netcoreapp2.0\BasicApiCore.runtimeconfig.dev.json
+C:\Users\damia.DESKTOP-836KIV2\source\repos\BasicApiCore\BasicApiCore\bin\Debug\netcoreapp2.0\BasicApiCore.dll
+C:\Users\damia.DESKTOP-836KIV2\source\repos\BasicApiCore\BasicApiCore\obj\Debug\netcoreapp2.0\BasicApiCore.csprojResolveAssemblyReference.cache
+C:\Users\damia.DESKTOP-836KIV2\source\repos\BasicApiCore\BasicApiCore\obj\Debug\netcoreapp2.0\BasicApiCore.csproj.CoreCompileInputs.cache
+C:\Users\damia.DESKTOP-836KIV2\source\repos\BasicApiCore\BasicApiCore\obj\Debug\netcoreapp2.0\BasicApiCore.AssemblyInfoInputs.cache
+C:\Users\damia.DESKTOP-836KIV2\source\repos\BasicApiCore\BasicApiCore\obj\Debug\netcoreapp2.0\BasicApiCore.AssemblyInfo.cs
+C:\Users\damia.DESKTOP-836KIV2\source\repos\BasicApiCore\BasicApiCore\bin\Debug\netcoreapp2.0\BasicApiCore.pdb
+C:\Users\damia.DESKTOP-836KIV2\source\repos\BasicApiCore\BasicApiCore\obj\Debug\netcoreapp2.0\BasicApiCore.dll
+C:\Users\damia.DESKTOP-836KIV2\source\repos\BasicApiCore\BasicApiCore\obj\Debug\netcoreapp2.0\BasicApiCore.pdb
+C:\Users\damia.DESKTOP-836KIV2\source\repos\BasicApiCore\BasicApiCore\bin\Debug\netcoreapp2.0\nlog.config

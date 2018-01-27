@@ -1,0 +1,8 @@
+2018-01-22 16:47:08.6102|1|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:60056/api/values   
+2018-01-22 16:47:09.0100|2|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 439.0353ms 404 text/plain 
+2018-01-22 16:48:45.9618|1|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:60056/api/castle/19/details application/json  
+2018-01-22 16:48:46.6229|1|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method BasicApiCore.Controllers.CastleDetailsController.GetCastleDetails (BasicApiCore) with arguments (19) - ModelState is Valid 
+2018-01-22 16:48:46.6422|0|FATAL|BasicApiCore.Models.CastleDetails|Castle o id 19 znalezione 
+2018-01-22 16:48:46.6667|1|INFO|Microsoft.AspNetCore.Mvc.StatusCodeResult|Executing HttpStatusCodeResult, setting HTTP status code 404 
+2018-01-22 16:48:46.6821|2|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action BasicApiCore.Controllers.CastleDetailsController.GetCastleDetails (BasicApiCore) in 200.526ms 
+2018-01-22 16:48:46.6935|2|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 765.6364ms 404 text/plain 
